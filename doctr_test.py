@@ -2,6 +2,8 @@ import os
 import sys
 # Let's pick the desired backend
 # os.environ['USE_TF'] = '1'
+# pip install "python-doctr[torch]"
+# pip install rapidfuzz==2.15.1
 os.environ['USE_TORCH'] = '1'
 
 import matplotlib.pyplot as plt
@@ -35,8 +37,8 @@ synthetic_pages = result.synthesize()
 
 
 xml_output = result.export_as_xml()
-print(xml_output[0][0])
+# print(xml_output[0][0])
 
-# output_file = 'docTR_output.xml'
-# with open(output_file, 'wb') as file:
-#     file.write(xml_output[0][0])
+output_file = sys.argv[2]+'.xml'
+with open(output_file, 'wb') as file:
+    file.write(xml_output[0][0])
