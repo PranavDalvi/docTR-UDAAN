@@ -1,0 +1,158 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>docTR - XML export (hOCR)</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="ocr-system" content="python-doctr v0.6.0" />
+        <meta name="ocr-capabilities" content="ocr_page ocr_carea ocr_par ocr_line ocrx_word" />
+    </head>
+    <body>
+        <div class="ocr_page" id="page_1" title="image; bbox 0 0 1191 1684; ppageno 0" />
+        <div class="ocr_carea" id="block_1" title="bbox 112 120                     213 309">
+            <p class="ocr_par" id="par_1" title="bbox 112 120                     213 309">
+                <span class="ocr_line" id="line_1"
+                    title="bbox 112 120                         212 150;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_1"
+                        title="bbox 112 120                             176 150;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_2"
+                        title="bbox 177 122                             212 148;                             x_wconf 100">
+                        1-1</span>
+                </span>
+                <span class="ocr_line" id="line_2"
+                    title="bbox 112 160                         213 189;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_3"
+                        title="bbox 112 160                             176 189;                             x_wconf 79">
+                        Table</span>
+                    <span class="ocrx_word" id="word_4"
+                        title="bbox 176 161                             213 187;                             x_wconf 100">
+                        2-1</span>
+                </span>
+                <span class="ocr_line" id="line_3"
+                    title="bbox 113 201                         213 230;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_5"
+                        title="bbox 113 201                             176 230;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_6"
+                        title="bbox 176 202                             213 229;                             x_wconf 100">
+                        3-1</span>
+                </span>
+                <span class="ocr_line" id="line_4"
+                    title="bbox 114 242                         213 266;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_7"
+                        title="bbox 114 242                             174 266;                             x_wconf 96">
+                        Table</span>
+                    <span class="ocrx_word" id="word_8"
+                        title="bbox 174 242                             213 266;                             x_wconf 99">
+                        4-1</span>
+                </span>
+                <span class="ocr_line" id="line_5"
+                    title="bbox 115 281                         213 309;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_9"
+                        title="bbox 115 281                             176 309;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_10"
+                        title="bbox 176 281                             213 308;                             x_wconf 100">
+                        5-1</span>
+                </span>
+            </p>
+        </div>
+        <div class="ocr_carea" id="block_2" title="bbox 436 122                     536 309">
+            <p class="ocr_par" id="par_2" title="bbox 436 122                     536 309">
+                <span class="ocr_line" id="line_6"
+                    title="bbox 436 122                         535 150;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_11"
+                        title="bbox 436 122                             497 150;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_12"
+                        title="bbox 498 122                             535 148;                             x_wconf 100">
+                        1-2</span>
+                </span>
+                <span class="ocr_line" id="line_7"
+                    title="bbox 437 161                         536 191;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_13"
+                        title="bbox 437 163                             495 187;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_14"
+                        title="bbox 497 161                             536 191;                             x_wconf 100">
+                        2-2</span>
+                </span>
+                <span class="ocr_line" id="line_8"
+                    title="bbox 437 202                         535 229;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_15"
+                        title="bbox 437 202                             495 227;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_16"
+                        title="bbox 497 202                             535 229;                             x_wconf 99">
+                        3-2</span>
+                </span>
+                <span class="ocr_line" id="line_9"
+                    title="bbox 437 240                         535 266;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_17"
+                        title="bbox 437 242                             495 266;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_18"
+                        title="bbox 497 240                             535 266;                             x_wconf 100">
+                        4-2</span>
+                </span>
+                <span class="ocr_line" id="line_10"
+                    title="bbox 437 280                         536 309;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_19"
+                        title="bbox 437 281                             495 306;                             x_wconf 91">
+                        Table</span>
+                    <span class="ocrx_word" id="word_20"
+                        title="bbox 497 280                             536 309;                             x_wconf 100">
+                        5-2</span>
+                </span>
+            </p>
+        </div>
+        <div class="ocr_carea" id="block_3" title="bbox 758 122                     857 308">
+            <p class="ocr_par" id="par_3" title="bbox 758 122                     857 308">
+                <span class="ocr_line" id="line_11"
+                    title="bbox 758 122                         857 150;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_21"
+                        title="bbox 758 122                             819 150;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_22"
+                        title="bbox 820 122                             857 148;                             x_wconf 100">
+                        1-3</span>
+                </span>
+                <span class="ocr_line" id="line_12"
+                    title="bbox 759 161                         856 189;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_23"
+                        title="bbox 759 161                             818 187;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_24"
+                        title="bbox 819 161                             856 189;                             x_wconf 100">
+                        2-3</span>
+                </span>
+                <span class="ocr_line" id="line_13"
+                    title="bbox 758 202                         856 229;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_25"
+                        title="bbox 758 202                             818 227;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_26"
+                        title="bbox 819 202                             856 229;                             x_wconf 100">
+                        3-3</span>
+                </span>
+                <span class="ocr_line" id="line_14"
+                    title="bbox 759 240                         857 270;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_27"
+                        title="bbox 759 242                             818 266;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_28"
+                        title="bbox 818 240                             857 270;                             x_wconf 100">
+                        4-3</span>
+                </span>
+                <span class="ocr_line" id="line_15"
+                    title="bbox 759 280                         856 308;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_29"
+                        title="bbox 759 281                             818 306;                             x_wconf 100">
+                        Table</span>
+                    <span class="ocrx_word" id="word_30"
+                        title="bbox 819 280                             856 308;                             x_wconf 100">
+                        5-3</span>
+                </span>
+            </p>
+        </div>
+    </body>
+</html>
