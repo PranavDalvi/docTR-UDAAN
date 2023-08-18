@@ -18,23 +18,28 @@ def json_to_hocr(json_data):
     for page in pages:
         page_idx = page.get("page_idx", 0)
         dimensions = page.get("dimensions", [0, 0])
-        hocr_markup.append(f"<div class='ocr_page' id='page_{page_idx}' title='image {page_idx}; bbox 0 0 {dimensions[0]} {dimensions[1]}'>")
+        width, height = dimensions
+
+        hocr_markup.append(f"<div class='ocr_page' id='page_{page_idx}' title='image {page_idx}; bbox 0 0 {width} {height}'>")
 
         blocks = page.get("blocks", [])
         for block in blocks:
             block_geometry = block.get("geometry", [])
-            hocr_markup.append(f"<div class='ocr_carea' id='block_{page_idx}_{block_geometry[0][0]}_{block_geometry[0][1]}' title='bbox {block_geometry[0][0]} {block_geometry[0][1]} {block_geometry[1][0]} {block_geometry[1][1]}'>")
+            bbox = [int(coord * width) for coord in block_geometry[0]] + [int(coord * height) for coord in block_geometry[1]]
+            hocr_markup.append(f"<div class='ocr_carea' id='block_{page_idx}_{bbox[0]}_{bbox[1]}' title='bbox {bbox[0]} {bbox[1]} {bbox[2]} {bbox[3]}'>")
 
             lines = block.get("lines", [])
             for line in lines:
                 line_geometry = line.get("geometry", [])
-                hocr_markup.append(f"<span class='ocr_line' id='line_{page_idx}_{line_geometry[0][0]}_{line_geometry[0][1]}' title='bbox {line_geometry[0][0]} {line_geometry[0][1]} {line_geometry[1][0]} {line_geometry[1][1]}'>")
+                line_bbox = [int(coord * width) for coord in line_geometry[0]] + [int(coord * height) for coord in line_geometry[1]]
+                hocr_markup.append(f"<span class='ocr_line' id='line_{page_idx}_{line_bbox[0]}_{line_bbox[1]}' title='bbox {line_bbox[0]} {line_bbox[1]} {line_bbox[2]} {line_bbox[3]}'>")
 
                 words = line.get("words", [])
                 for word in words:
                     word_value = word.get("value", "")
                     word_geometry = word.get("geometry", [])
-                    hocr_markup.append(f"<span class='ocrx_word' id='word_{page_idx}_{word_geometry[0][0]}_{word_geometry[0][1]}' title='bbox {word_geometry[0][0]} {word_geometry[0][1]} {word_geometry[1][0]} {word_geometry[1][1]}'>{word_value}</span>")
+                    word_bbox = [int(coord * width) for coord in word_geometry[0]] + [int(coord * height) for coord in word_geometry[1]]
+                    hocr_markup.append(f"<span class='ocrx_word' id='word_{page_idx}_{word_bbox[0]}_{word_bbox[1]}' title='bbox {word_bbox[0]} {word_bbox[1]} {word_bbox[2]} {word_bbox[3]}'>{word_value}</span>")
 
                 hocr_markup.append("</span>")
 

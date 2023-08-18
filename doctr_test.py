@@ -1,5 +1,6 @@
 import os
 import sys
+import json
 # Let's pick the desired backend
 # os.environ['USE_TF'] = '1'
 # pip install "python-doctr[torch]"
@@ -10,7 +11,7 @@ import matplotlib.pyplot as plt
 
 from doctr.io import DocumentFile
 # from doctr.models import ocr_predictor
-from doctr.models import kie_predictor
+from doctr.models import ocr_predictor
 
 
 
@@ -21,7 +22,7 @@ print(f"Number of pages: {len(doc)}")
 
 # Instantiate a pretrained model
 # predictor = ocr_predictor(det_arch='db_resnet50', reco_arch='crnn_vgg16_bn', pretrained=True)
-model = kie_predictor(det_arch='db_resnet50', reco_arch='crnn_vgg16_bn', pretrained=True)
+model = ocr_predictor(det_arch='db_resnet50', reco_arch='crnn_vgg16_bn', pretrained=True)
 
 # Display the architecture
 # print(predictor)
@@ -36,15 +37,18 @@ synthetic_pages = result.synthesize()
 
 #Exporting results
 
+output_file = sys.argv[2]+'.json'
 json_export = result.export()
-print(json_export)
+json_object = json.dumps(json_export, indent=4)
+with open(output_file, "w") as outfile:
+    outfile.write(json_object)
 
 
-xml_output = result.export_as_xml()
-for output in xml_output:
-    xml_bytes_string = output[0]
-    xml_element = output[1]
+# xml_output = result.export_as_xml()
+# for output in xml_output:
+#     xml_bytes_string = output[0]
+#     xml_element = output[1]
 
-output_file = sys.argv[2]+'.xml'
-with open(output_file, 'wb') as file:
-    file.write(xml_bytes_string)
+# output_file = sys.argv[2]+'.xml'
+# with open(output_file, 'wb') as file:
+#     file.write(xml_bytes_string)

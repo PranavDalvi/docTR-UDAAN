@@ -1,1 +1,1421 @@
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><title>docTR - XML export (hOCR)</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="ocr-system" content="python-doctr v0.6.0" /><meta name="ocr-capabilities" content="ocr_page ocr_carea ocr_par ocr_line ocrx_word" /></head><body><div class="ocr_page" id="page_1" title="image; bbox 0 0 1167 1655; ppageno 0" /><div class="ocr_carea" id="block_1" title="bbox 522 221                     647 251"><p class="ocr_par" id="par_1" title="bbox 522 221                     647 251"><span class="ocr_line" id="line_1" title="bbox 522 221                         647 251;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_1" title="bbox 522 221                             647 251;                             x_wconf 100">Preface</span></span></p></div><div class="ocr_carea" id="block_2" title="bbox 96 263                     1076 1422"><p class="ocr_par" id="par_2" title="bbox 96 263                     1076 1422"><span class="ocr_line" id="line_2" title="bbox 96 263                         1069 296;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_2" title="bbox 96 263                             144 294;                             x_wconf 100">The</span><span class="ocrx_word" id="word_3" title="bbox 147 267                             229 296;                             x_wconf 98">Faculty</span><span class="ocrx_word" id="word_4" title="bbox 236 267                             348 291;                             x_wconf 100">Handbook</span><span class="ocrx_word" id="word_5" title="bbox 351 265                             376 294;                             x_wconf 100">is</span><span class="ocrx_word" id="word_6" title="bbox 377 268                             409 294;                             x_wconf 100">an</span><span class="ocrx_word" id="word_7" title="bbox 414 267                             521 296;                             x_wconf 99">extremely</span><span class="ocrx_word" id="word_8" title="bbox 528 267                             595 291;                             x_wconf 98">useful</span><span class="ocrx_word" id="word_9" title="bbox 601 267                             708 291;                             x_wconf 100">document</span><span class="ocrx_word" id="word_10" title="bbox 713 267                             770 291;                             x_wconf 100">since</span><span class="ocrx_word" id="word_11" title="bbox 774 263                             798 294;                             x_wconf 100">it</span><span class="ocrx_word" id="word_12" title="bbox 800 267                             932 291;                             x_wconf 53">consolidates</span><span class="ocrx_word" id="word_13" title="bbox 938 267                             999 291;                             x_wconf 100">much</span><span class="ocrx_word" id="word_14" title="bbox 1004 265                             1035 293;                             x_wconf 100">of</span><span class="ocrx_word" id="word_15" title="bbox 1035 265                             1069 293;                             x_wconf 100">the</span></span><span class="ocr_line" id="line_3" title="bbox 100 296                         1063 330;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_16" title="bbox 100 299                             231 323;                             x_wconf 99">information</span><span class="ocrx_word" id="word_17" title="bbox 236 299                             281 325;                             x_wconf 100">that</span><span class="ocrx_word" id="word_18" title="bbox 284 299                             323 325;                             x_wconf 79">the</span><span class="ocrx_word" id="word_19" title="bbox 325 299                             405 330;                             x_wconf 98">faculty</span><span class="ocrx_word" id="word_20" title="bbox 409 301                             514 323;                             x_wconf 100">members</span><span class="ocrx_word" id="word_21" title="bbox 517 299                             572 325;                             x_wconf 100">need</span><span class="ocrx_word" id="word_22" title="bbox 577 299                             652 330;                             x_wconf 98">during</span><span class="ocrx_word" id="word_23" title="bbox 656 299                             711 325;                             x_wconf 100">their</span><span class="ocrx_word" id="word_24" title="bbox 715 304                             794 323;                             x_wconf 99">careers</span><span class="ocrx_word" id="word_25" title="bbox 797 299                             824 326;                             x_wconf 97">at</span><span class="ocrx_word" id="word_26" title="bbox 824 296                             866 326;                             x_wconf 95">IIT</span><span class="ocrx_word" id="word_27" title="bbox 868 299                             970 330;                             x_wconf 100">Bombay.</span><span class="ocrx_word" id="word_28" title="bbox 976 299                             1023 325;                             x_wconf 98">The</span><span class="ocrx_word" id="word_29" title="bbox 1027 297                             1063 325;                             x_wconf 100">firs</span></span><span class="ocr_line" id="line_4" title="bbox 99 330                         1070 364;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_30" title="bbox 99 333                             178 357;                             x_wconf 100">edition</span><span class="ocrx_word" id="word_31" title="bbox 185 338                             231 357;                             x_wconf 100">was</span><span class="ocrx_word" id="word_32" title="bbox 237 331                             326 362;                             x_wconf 100">brought</span><span class="ocrx_word" id="word_33" title="bbox 330 335                             372 359;                             x_wconf 100">out</span><span class="ocrx_word" id="word_34" title="bbox 375 330                             402 359;                             x_wconf 100">in</span><span class="ocrx_word" id="word_35" title="bbox 407 333                             471 357;                             x_wconf 100">2014.</span><span class="ocrx_word" id="word_36" title="bbox 478 330                             539 359;                             x_wconf 100">Over</span><span class="ocrx_word" id="word_37" title="bbox 542 331                             581 360;                             x_wconf 100">the</span><span class="ocrx_word" id="word_38" title="bbox 584 335                             654 364;                             x_wconf 100">years,</span><span class="ocrx_word" id="word_39" title="bbox 660 333                             718 357;                             x_wconf 100">there</span><span class="ocrx_word" id="word_40" title="bbox 723 331                             780 357;                             x_wconf 100">have</span><span class="ocrx_word" id="word_41" title="bbox 785 331                             841 357;                             x_wconf 100">been</span><span class="ocrx_word" id="word_42" title="bbox 846 333                             927 357;                             x_wconf 100">several</span><span class="ocrx_word" id="word_43" title="bbox 933 330                             1070 364;                             x_wconf 99">far-reaching</span></span><span class="ocr_line" id="line_5" title="bbox 99 362                         1069 398;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_44" title="bbox 99 365                             191 396;                             x_wconf 100">changes</span><span class="ocrx_word" id="word_45" title="bbox 194 364                             222 393;                             x_wconf 100">in</span><span class="ocrx_word" id="word_46" title="bbox 226 365                             264 394;                             x_wconf 100">the</span><span class="ocrx_word" id="word_47" title="bbox 269 368                             407 398;                             x_wconf 74">governance,</span><span class="ocrx_word" id="word_48" title="bbox 411 367                             541 390;                             x_wconf 69">recruitment</span><span class="ocrx_word" id="word_49" title="bbox 548 365                             643 396;                             x_wconf 100">policies,</span><span class="ocrx_word" id="word_50" title="bbox 648 365                             719 396;                             x_wconf 99">salary</span><span class="ocrx_word" id="word_51" title="bbox 724 368                             830 393;                             x_wconf 100">structure,</span><span class="ocrx_word" id="word_52" title="bbox 835 367                             879 391;                             x_wconf 99">etc.</span><span class="ocrx_word" id="word_53" title="bbox 883 365                             937 391;                             x_wconf 100">This</span><span class="ocrx_word" id="word_54" title="bbox 940 364                             1022 393;                             x_wconf 100">second</span><span class="ocrx_word" id="word_55" title="bbox 1025 362                             1069 393;                             x_wconf 99">edi-</span></span><span class="ocr_line" id="line_6" title="bbox 98 394                         1072 428;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_56" title="bbox 98 398                             145 423;                             x_wconf 100">tion</span><span class="ocrx_word" id="word_57" title="bbox 149 398                             180 425;                             x_wconf 100">of</span><span class="ocrx_word" id="word_58" title="bbox 180 398                             219 423;                             x_wconf 100">the</span><span class="ocrx_word" id="word_59" title="bbox 225 398                             342 422;                             x_wconf 100">Handbook</span><span class="ocrx_word" id="word_60" title="bbox 346 398                             389 423;                             x_wconf 100">has</span><span class="ocrx_word" id="word_61" title="bbox 393 398                             448 423;                             x_wconf 99">been</span><span class="ocrx_word" id="word_62" title="bbox 455 399                             578 428;                             x_wconf 98">thoroughly</span><span class="ocrx_word" id="word_63" title="bbox 582 396                             668 425;                             x_wconf 100">revised</span><span class="ocrx_word" id="word_64" title="bbox 671 398                             716 423;                             x_wconf 100">and</span><span class="ocrx_word" id="word_65" title="bbox 721 398                             811 428;                             x_wconf 100">updated</span><span class="ocrx_word" id="word_66" title="bbox 816 399                             843 427;                             x_wconf 100">to</span><span class="ocrx_word" id="word_67" title="bbox 847 398                             896 423;                             x_wconf 100">take</span><span class="ocrx_word" id="word_68" title="bbox 899 394                             933 427;                             x_wconf 99">all</span><span class="ocrx_word" id="word_69" title="bbox 937 398                             974 423;                             x_wconf 100">the</span><span class="ocrx_word" id="word_70" title="bbox 980 399                             1072 428;                             x_wconf 100">changes</span></span><span class="ocr_line" id="line_7" title="bbox 97 478                         1075 514;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_71" title="bbox 97 482                             165 506;                             x_wconf 100">There</span><span class="ocrx_word" id="word_72" title="bbox 169 485                             210 509;                             x_wconf 98">are</span><span class="ocrx_word" id="word_73" title="bbox 212 486                             277 511;                             x_wconf 100">many</span><span class="ocrx_word" id="word_74" title="bbox 281 482                             362 506;                             x_wconf 100">written</span><span class="ocrx_word" id="word_75" title="bbox 367 480                             421 511;                             x_wconf 91">(and</span><span class="ocrx_word" id="word_76" title="bbox 425 486                             485 506;                             x_wconf 100">some</span><span class="ocrx_word" id="word_77" title="bbox 490 482                             609 511;                             x_wconf 95">unwritten)</span><span class="ocrx_word" id="word_78" title="bbox 613 482                             672 509;                             x_wconf 97">rules</span><span class="ocrx_word" id="word_79" title="bbox 675 482                             720 507;                             x_wconf 100">that</span><span class="ocrx_word" id="word_80" title="bbox 725 485                             806 514;                             x_wconf 100">govern</span><span class="ocrx_word" id="word_81" title="bbox 808 483                             855 514;                             x_wconf 100">any</span><span class="ocrx_word" id="word_82" title="bbox 857 482                             972 506;                             x_wconf 94">institution</span><span class="ocrx_word" id="word_83" title="bbox 977 478                             1023 509;                             x_wconf 99">like</span><span class="ocrx_word" id="word_84" title="bbox 1026 478                             1075 509;                             x_wconf 98">IIT.</span></span><span class="ocr_line" id="line_8" title="bbox 99 511                         1076 546;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_85" title="bbox 99 514                             166 545;                             x_wconf 99">Many</span><span class="ocrx_word" id="word_86" title="bbox 170 514                             225 540;                             x_wconf 100">such</span><span class="ocrx_word" id="word_87" title="bbox 228 514                             285 540;                             x_wconf 96">rules</span><span class="ocrx_word" id="word_88" title="bbox 289 514                             345 540;                             x_wconf 100">have</span><span class="ocrx_word" id="word_89" title="bbox 349 514                             405 540;                             x_wconf 100">been</span><span class="ocrx_word" id="word_90" title="bbox 409 516                             507 545;                             x_wconf 100">captured</span><span class="ocrx_word" id="word_91" title="bbox 511 512                             635 546;                             x_wconf 97">succinctly,</span><span class="ocrx_word" id="word_92" title="bbox 639 514                             738 545;                             x_wconf 100">although</span><span class="ocrx_word" id="word_93" title="bbox 743 520                             803 540;                             x_wconf 91">some</span><span class="ocrx_word" id="word_94" title="bbox 808 514                             865 540;                             x_wconf 100">have</span><span class="ocrx_word" id="word_95" title="bbox 867 519                             900 541;                             x_wconf 100">no</span><span class="ocrx_word" id="word_96" title="bbox 901 512                             971 541;                             x_wconf 100">doubt</span><span class="ocrx_word" id="word_97" title="bbox 974 514                             1029 540;                             x_wconf 100">been</span><span class="ocrx_word" id="word_98" title="bbox 1031 511                             1076 541;                             x_wconf 100">left</span></span><span class="ocr_line" id="line_9" title="bbox 98 545                         1075 580;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_99" title="bbox 98 550                             139 574;                             x_wconf 100">out</span><span class="ocrx_word" id="word_100" title="bbox 144 548                             297 577;                             x_wconf 90">inadvertently.</span><span class="ocrx_word" id="word_101" title="bbox 305 545                             330 575;                             x_wconf 100">A</span><span class="ocrx_word" id="word_102" title="bbox 336 548                             447 572;                             x_wconf 100">handbook</span><span class="ocrx_word" id="word_103" title="bbox 454 548                             507 572;                             x_wconf 100">such</span><span class="ocrx_word" id="word_104" title="bbox 512 550                             542 575;                             x_wconf 100">as</span><span class="ocrx_word" id="word_105" title="bbox 545 545                             597 577;                             x_wconf 100">this,</span><span class="ocrx_word" id="word_106" title="bbox 602 546                             618 575;                             x_wconf 100">I</span><span class="ocrx_word" id="word_107" title="bbox 620 546                             711 575;                             x_wconf 99">believe,</span><span class="ocrx_word" id="word_108" title="bbox 716 545                             741 575;                             x_wconf 100">is</span><span class="ocrx_word" id="word_109" title="bbox 745 548                             875 577;                             x_wconf 98">particularly</span><span class="ocrx_word" id="word_110" title="bbox 883 548                             953 572;                             x_wconf 96">useful</span><span class="ocrx_word" id="word_111" title="bbox 960 546                             998 575;                             x_wconf 100">for</span><span class="ocrx_word" id="word_112" title="bbox 1001 550                             1075 580;                             x_wconf 100">young</span></span><span class="ocr_line" id="line_10" title="bbox 99 579                         1074 611;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_113" title="bbox 99 580                             179 611;                             x_wconf 99">faculty</span><span class="ocrx_word" id="word_114" title="bbox 182 582                             286 606;                             x_wconf 63">members</span><span class="ocrx_word" id="word_115" title="bbox 289 580                             320 608;                             x_wconf 100">of</span><span class="ocrx_word" id="word_116" title="bbox 317 579                             358 609;                             x_wconf 100">the</span><span class="ocrx_word" id="word_117" title="bbox 359 582                             457 606;                             x_wconf 52">institute.</span><span class="ocrx_word" id="word_118" title="bbox 465 582                             589 611;                             x_wconf 100">Significant</span><span class="ocrx_word" id="word_119" title="bbox 593 582                             667 606;                             x_wconf 70">efforts</span><span class="ocrx_word" id="word_120" title="bbox 670 580                             726 606;                             x_wconf 100">have</span><span class="ocrx_word" id="word_121" title="bbox 729 582                             832 606;                             x_wconf 100">therefore</span><span class="ocrx_word" id="word_122" title="bbox 835 582                             891 606;                             x_wconf 100">been</span><span class="ocrx_word" id="word_123" title="bbox 895 582                             957 606;                             x_wconf 100">made</span><span class="ocrx_word" id="word_124" title="bbox 960 582                             988 609;                             x_wconf 100">to</span><span class="ocrx_word" id="word_125" title="bbox 987 579                             1074 608;                             x_wconf 100">address</span></span><span class="ocr_line" id="line_11" title="bbox 99 661                         1069 697;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_126" title="bbox 99 664                             229 689;                             x_wconf 100">Disclaimer:</span><span class="ocrx_word" id="word_127" title="bbox 238 664                             309 689;                             x_wconf 98">While</span><span class="ocrx_word" id="word_128" title="bbox 315 667                             383 697;                             x_wconf 100">every</span><span class="ocrx_word" id="word_129" title="bbox 386 663                             454 692;                             x_wconf 100">effort</span><span class="ocrx_word" id="word_130" title="bbox 458 664                             499 690;                             x_wconf 100">has</span><span class="ocrx_word" id="word_131" title="bbox 506 664                             562 690;                             x_wconf 100">been</span><span class="ocrx_word" id="word_132" title="bbox 568 663                             633 692;                             x_wconf 100">made</span><span class="ocrx_word" id="word_133" title="bbox 636 666                             664 692;                             x_wconf 100">to</span><span class="ocrx_word" id="word_134" title="bbox 669 664                             726 697;                             x_wconf 100">keep</span><span class="ocrx_word" id="word_135" title="bbox 732 664                             769 690;                             x_wconf 100">the</span><span class="ocrx_word" id="word_136" title="bbox 777 664                             895 689;                             x_wconf 100">Handbook</span><span class="ocrx_word" id="word_137" title="bbox 901 663                             1019 697;                             x_wconf 94">up-to-date</span><span class="ocrx_word" id="word_138" title="bbox 1023 661                             1069 692;                             x_wconf 100">and</span></span><span class="ocr_line" id="line_12" title="bbox 99 693                         1069 731;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_139" title="bbox 99 701                             199 726;                             x_wconf 99">accurate,</span><span class="ocrx_word" id="word_140" title="bbox 204 695                             228 726;                             x_wconf 100">it</span><span class="ocrx_word" id="word_141" title="bbox 229 695                             308 724;                             x_wconf 99">should</span><span class="ocrx_word" id="word_142" title="bbox 310 698                             352 724;                             x_wconf 100">not</span><span class="ocrx_word" id="word_143" title="bbox 352 693                             386 726;                             x_wconf 100">be</span><span class="ocrx_word" id="word_144" title="bbox 389 697                             489 727;                             x_wconf 100">regarded</span><span class="ocrx_word" id="word_145" title="bbox 492 700                             523 726;                             x_wconf 100">as</span><span class="ocrx_word" id="word_146" title="bbox 527 698                             672 721;                             x_wconf 94">authoritative.</span><span class="ocrx_word" id="word_147" title="bbox 679 695                             754 731;                             x_wconf 100">Going</span><span class="ocrx_word" id="word_148" title="bbox 756 695                             790 729;                             x_wconf 100">by</span><span class="ocrx_word" id="word_149" title="bbox 791 695                             832 726;                             x_wconf 100">the</span><span class="ocrx_word" id="word_150" title="bbox 834 700                             890 731;                             x_wconf 100">very</span><span class="ocrx_word" id="word_151" title="bbox 892 701                             961 726;                             x_wconf 100">name,</span><span class="ocrx_word" id="word_152" title="bbox 965 695                             989 724;                             x_wconf 100">it</span><span class="ocrx_word" id="word_153" title="bbox 990 695                             1069 724;                             x_wconf 100">should</span></span><span class="ocr_line" id="line_13" title="bbox 98 727                         1068 761;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_154" title="bbox 98 729                             130 756;                             x_wconf 100">be</span><span class="ocrx_word" id="word_155" title="bbox 133 731                             217 755;                             x_wconf 100">viewed</span><span class="ocrx_word" id="word_156" title="bbox 221 735                             250 756;                             x_wconf 100">as</span><span class="ocrx_word" id="word_157" title="bbox 252 734                             270 758;                             x_wconf 100">a</span><span class="ocrx_word" id="word_158" title="bbox 274 731                             345 761;                             x_wconf 100">guide;</span><span class="ocrx_word" id="word_159" title="bbox 350 727                             391 758;                             x_wconf 100">the</span><span class="ocrx_word" id="word_160" title="bbox 394 731                             470 755;                             x_wconf 97">details</span><span class="ocrx_word" id="word_161" title="bbox 473 729                             506 756;                             x_wconf 100">of</span><span class="ocrx_word" id="word_162" title="bbox 506 731                             564 755;                             x_wconf 100">rules</span><span class="ocrx_word" id="word_163" title="bbox 568 727                             613 758;                             x_wconf 100">and</span><span class="ocrx_word" id="word_164" title="bbox 618 731                             743 760;                             x_wconf 99">regulations</span><span class="ocrx_word" id="word_165" title="bbox 749 731                             875 760;                             x_wconf 95">concerning</span><span class="ocrx_word" id="word_166" title="bbox 881 731                             980 760;                             x_wconf 100">specifics</span><span class="ocrx_word" id="word_167" title="bbox 986 731                             1068 761;                             x_wconf 100">require</span></span><span class="ocr_line" id="line_14" title="bbox 100 761                         903 792;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_168" title="bbox 100 764                             244 787;                             x_wconf 95">confirmation</span><span class="ocrx_word" id="word_169" title="bbox 250 763                             307 789;                             x_wconf 91">from</span><span class="ocrx_word" id="word_170" title="bbox 309 763                             348 789;                             x_wconf 100">the</span><span class="ocrx_word" id="word_171" title="bbox 351 764                             470 787;                             x_wconf 100">authorities</span><span class="ocrx_word" id="word_172" title="bbox 473 761                             505 792;                             x_wconf 100">of</span><span class="ocrx_word" id="word_173" title="bbox 505 764                             666 787;                             x_wconf 80">administration</span><span class="ocrx_word" id="word_174" title="bbox 670 768                             697 789;                             x_wconf 100">as</span><span class="ocrx_word" id="word_175" title="bbox 701 763                             744 789;                             x_wconf 100">and</span><span class="ocrx_word" id="word_176" title="bbox 748 761                             811 790;                             x_wconf 100">when</span><span class="ocrx_word" id="word_177" title="bbox 815 763                             903 787;                             x_wconf 68">needed.</span></span><span class="ocr_line" id="line_15" title="bbox 96 810                         1072 845;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_178" title="bbox 96 810                             146 840;                             x_wconf 100">The</span><span class="ocrx_word" id="word_179" title="bbox 150 813                             206 839;                             x_wconf 100">need</span><span class="ocrx_word" id="word_180" title="bbox 212 815                             239 840;                             x_wconf 100">to</span><span class="ocrx_word" id="word_181" title="bbox 244 813                             321 844;                             x_wconf 100">update</span><span class="ocrx_word" id="word_182" title="bbox 327 813                             366 839;                             x_wconf 100">the</span><span class="ocrx_word" id="word_183" title="bbox 373 813                             490 837;                             x_wconf 100">Handbook</span><span class="ocrx_word" id="word_184" title="bbox 496 816                             545 840;                             x_wconf 97">was</span><span class="ocrx_word" id="word_185" title="bbox 550 813                             660 844;                             x_wconf 99">originally</span><span class="ocrx_word" id="word_186" title="bbox 668 813                             757 844;                             x_wconf 100">brought</span><span class="ocrx_word" id="word_187" title="bbox 761 815                             790 840;                             x_wconf 100">to</span><span class="ocrx_word" id="word_188" title="bbox 794 813                             833 839;                             x_wconf 100">the</span><span class="ocrx_word" id="word_189" title="bbox 839 813                             887 839;                             x_wconf 100">fore</span><span class="ocrx_word" id="word_190" title="bbox 891 811                             925 845;                             x_wconf 100">by</span><span class="ocrx_word" id="word_191" title="bbox 931 813                             988 839;                             x_wconf 100">Prof.</span><span class="ocrx_word" id="word_192" title="bbox 996 813                             1072 844;                             x_wconf 99">Abhay</span></span><span class="ocr_line" id="line_16" title="bbox 100 844                         1072 879;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_193" title="bbox 100 847                             227 871;                             x_wconf 100">Karandikar</span><span class="ocrx_word" id="word_194" title="bbox 234 849                             344 873;                             x_wconf 100">(erstwhile</span><span class="ocrx_word" id="word_195" title="bbox 351 847                             413 871;                             x_wconf 100">Dean</span><span class="ocrx_word" id="word_196" title="bbox 418 845                             485 876;                             x_wconf 96">(FA))</span><span class="ocrx_word" id="word_197" title="bbox 489 845                             516 874;                             x_wconf 100">in</span><span class="ocrx_word" id="word_198" title="bbox 520 847                             586 871;                             x_wconf 99">2017.</span><span class="ocrx_word" id="word_199" title="bbox 590 845                             617 873;                             x_wconf 100">A</span><span class="ocrx_word" id="word_200" title="bbox 620 847                             740 871;                             x_wconf 72">committee</span><span class="ocrx_word" id="word_201" title="bbox 745 845                             798 871;                             x_wconf 100">with</span><span class="ocrx_word" id="word_202" title="bbox 803 845                             860 871;                             x_wconf 100">Prof.</span><span class="ocrx_word" id="word_203" title="bbox 867 847                             968 876;                             x_wconf 100">Swaroop</span><span class="ocrx_word" id="word_204" title="bbox 973 844                             1072 879;                             x_wconf 100">Ganguly</span></span><span class="ocr_line" id="line_17" title="bbox 97 876                         1072 910;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_205" title="bbox 97 884                             127 905;                             x_wconf 100">as</span><span class="ocrx_word" id="word_206" title="bbox 129 879                             168 905;                             x_wconf 100">the</span><span class="ocrx_word" id="word_207" title="bbox 173 881                             284 903;                             x_wconf 100">Convener</span><span class="ocrx_word" id="word_208" title="bbox 289 881                             389 910;                             x_wconf 100">prepared</span><span class="ocrx_word" id="word_209" title="bbox 393 876                             434 908;                             x_wconf 100">the</span><span class="ocrx_word" id="word_210" title="bbox 438 879                             487 905;                             x_wconf 100">first</span><span class="ocrx_word" id="word_211" title="bbox 491 879                             547 905;                             x_wconf 100">draft</span><span class="ocrx_word" id="word_212" title="bbox 552 878                             581 907;                             x_wconf 100">of</span><span class="ocrx_word" id="word_213" title="bbox 584 879                             622 905;                             x_wconf 100">the</span><span class="ocrx_word" id="word_214" title="bbox 627 878                             741 907;                             x_wconf 100">handbook</span><span class="ocrx_word" id="word_215" title="bbox 745 879                             798 905;                             x_wconf 100">with</span><span class="ocrx_word" id="word_216" title="bbox 803 879                             881 903;                             x_wconf 99">crucial</span><span class="ocrx_word" id="word_217" title="bbox 887 879                             957 910;                             x_wconf 99">inputs</span><span class="ocrx_word" id="word_218" title="bbox 964 879                             1021 905;                             x_wconf 51">from</span><span class="ocrx_word" id="word_219" title="bbox 1025 876                             1072 907;                             x_wconf 100">fac-</span></span><span class="ocr_line" id="line_18" title="bbox 97 908                         1070 944;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_220" title="bbox 97 912                             146 944;                             x_wconf 100">ulty</span><span class="ocrx_word" id="word_221" title="bbox 149 913                             259 937;                             x_wconf 100">members.</span><span class="ocrx_word" id="word_222" title="bbox 267 912                             323 937;                             x_wconf 100">Prof.</span><span class="ocrx_word" id="word_223" title="bbox 327 908                             361 941;                             x_wconf 100">K.</span><span class="ocrx_word" id="word_224" title="bbox 350 910                             391 941;                             x_wconf 85">.P.</span><span class="ocrx_word" id="word_225" title="bbox 395 913                             516 942;                             x_wconf 100">Kaliappan,</span><span class="ocrx_word" id="word_226" title="bbox 522 912                             561 941;                             x_wconf 100">the</span><span class="ocrx_word" id="word_227" title="bbox 564 913                             644 937;                             x_wconf 99">former</span><span class="ocrx_word" id="word_228" title="bbox 647 910                             710 939;                             x_wconf 100">Dean</span><span class="ocrx_word" id="word_229" title="bbox 713 912                             770 942;                             x_wconf 98">(FA)</span><span class="ocrx_word" id="word_230" title="bbox 775 912                             816 937;                             x_wconf 100">has</span><span class="ocrx_word" id="word_231" title="bbox 821 913                             915 937;                             x_wconf 82">invested</span><span class="ocrx_word" id="word_232" title="bbox 919 915                             938 939;                             x_wconf 100">a</span><span class="ocrx_word" id="word_233" title="bbox 941 913                             1070 937;                             x_wconf 97">tremendous</span></span><span class="ocr_line" id="line_19" title="bbox 99 942                         1076 978;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_234" title="bbox 99 950                             183 970;                             x_wconf 63">amount</span><span class="ocrx_word" id="word_235" title="bbox 189 944                             220 971;                             x_wconf 100">of</span><span class="ocrx_word" id="word_236" title="bbox 223 945                             275 971;                             x_wconf 73">time</span><span class="ocrx_word" id="word_237" title="bbox 279 945                             308 973;                             x_wconf 100">to</span><span class="ocrx_word" id="word_238" title="bbox 312 945                             424 970;                             x_wconf 88">document</span><span class="ocrx_word" id="word_239" title="bbox 430 950                             457 971;                             x_wconf 100">as</span><span class="ocrx_word" id="word_240" title="bbox 462 949                             528 978;                             x_wconf 100">many</span><span class="ocrx_word" id="word_241" title="bbox 532 945                             609 970;                             x_wconf 91">details</span><span class="ocrx_word" id="word_242" title="bbox 614 950                             642 971;                             x_wconf 100">as</span><span class="ocrx_word" id="word_243" title="bbox 647 945                             740 976;                             x_wconf 96">possible</span><span class="ocrx_word" id="word_244" title="bbox 745 944                             773 973;                             x_wconf 100">in</span><span class="ocrx_word" id="word_245" title="bbox 777 945                             815 971;                             x_wconf 100">the</span><span class="ocrx_word" id="word_246" title="bbox 822 945                             932 970;                             x_wconf 99">handbook</span><span class="ocrx_word" id="word_247" title="bbox 938 942                             984 973;                             x_wconf 100">and</span><span class="ocrx_word" id="word_248" title="bbox 989 945                             1051 976;                             x_wconf 100">bring</span><span class="ocrx_word" id="word_249" title="bbox 1054 944                             1076 973;                             x_wconf 99">it</span></span><span class="ocr_line" id="line_20" title="bbox 96 975                         1071 1009;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_250" title="bbox 96 979                             125 1007;                             x_wconf 100">to</span><span class="ocrx_word" id="word_251" title="bbox 128 978                             172 1004;                             x_wconf 100">this</span><span class="ocrx_word" id="word_252" title="bbox 178 983                             258 1002;                             x_wconf 98">current</span><span class="ocrx_word" id="word_253" title="bbox 262 976                             327 1005;                             x_wconf 99">form.</span><span class="ocrx_word" id="word_254" title="bbox 333 978                             416 1009;                             x_wconf 100">Special</span><span class="ocrx_word" id="word_255" title="bbox 422 976                             498 1005;                             x_wconf 100">thanks</span><span class="ocrx_word" id="word_256" title="bbox 501 978                             529 1005;                             x_wconf 100">to</span><span class="ocrx_word" id="word_257" title="bbox 533 978                             589 1004;                             x_wconf 100">Prof.</span><span class="ocrx_word" id="word_258" title="bbox 596 976                             678 1005;                             x_wconf 100">Kumar</span><span class="ocrx_word" id="word_259" title="bbox 682 978                             778 1009;                             x_wconf 100">Appaiah</span><span class="ocrx_word" id="word_260" title="bbox 785 979                             927 1009;                             x_wconf 88">(Department</span><span class="ocrx_word" id="word_261" title="bbox 931 976                             961 1005;                             x_wconf 100">of</span><span class="ocrx_word" id="word_262" title="bbox 963 975                             1071 1004;                             x_wconf 97">Electrical</span></span><span class="ocr_line" id="line_21" title="bbox 100 1009                         1072 1042;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_263" title="bbox 100 1012                             244 1041;                             x_wconf 100">Engineering)</span><span class="ocrx_word" id="word_264" title="bbox 247 1009                             288 1039;                             x_wconf 100">for</span><span class="ocrx_word" id="word_265" title="bbox 287 1010                             324 1038;                             x_wconf 100">his</span><span class="ocrx_word" id="word_266" title="bbox 327 1010                             378 1036;                             x_wconf 100">hard</span><span class="ocrx_word" id="word_267" title="bbox 382 1010                             449 1039;                             x_wconf 100">work,</span><span class="ocrx_word" id="word_268" title="bbox 454 1013                             576 1038;                             x_wconf 90">dedication,</span><span class="ocrx_word" id="word_269" title="bbox 579 1009                             626 1039;                             x_wconf 100">and</span><span class="ocrx_word" id="word_270" title="bbox 628 1012                             741 1036;                             x_wconf 99">consistent</span><span class="ocrx_word" id="word_271" title="bbox 744 1013                             832 1042;                             x_wconf 97">support</span><span class="ocrx_word" id="word_272" title="bbox 834 1012                             879 1038;                             x_wconf 100">that</span><span class="ocrx_word" id="word_273" title="bbox 882 1012                             958 1041;                             x_wconf 100">helped</span><span class="ocrx_word" id="word_274" title="bbox 960 1012                             988 1039;                             x_wconf 100">to</span><span class="ocrx_word" id="word_275" title="bbox 989 1012                             1072 1041;                             x_wconf 98">publish</span></span><span class="ocr_line" id="line_22" title="bbox 97 1042                         1075 1078;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_276" title="bbox 97 1042                             142 1073;                             x_wconf 99">this</span><span class="ocrx_word" id="word_277" title="bbox 145 1046                             262 1070;                             x_wconf 94">document.</span><span class="ocrx_word" id="word_278" title="bbox 268 1042                             317 1073;                             x_wconf 100">The</span><span class="ocrx_word" id="word_279" title="bbox 318 1046                             401 1070;                             x_wconf 100">revised</span><span class="ocrx_word" id="word_280" title="bbox 405 1046                             462 1070;                             x_wconf 100">draft</span><span class="ocrx_word" id="word_281" title="bbox 464 1051                             509 1070;                             x_wconf 95">was</span><span class="ocrx_word" id="word_282" title="bbox 513 1046                             618 1070;                             x_wconf 99">reviewed</span><span class="ocrx_word" id="word_283" title="bbox 619 1042                             653 1078;                             x_wconf 100">by</span><span class="ocrx_word" id="word_284" title="bbox 655 1046                             711 1072;                             x_wconf 100">Prof.</span><span class="ocrx_word" id="word_285" title="bbox 717 1046                             805 1076;                             x_wconf 99">Devang</span><span class="ocrx_word" id="word_286" title="bbox 810 1046                             907 1070;                             x_wconf 98">Khakhar</span><span class="ocrx_word" id="word_287" title="bbox 911 1046                             998 1075;                             x_wconf 100">(former</span><span class="ocrx_word" id="word_288" title="bbox 1001 1042                             1075 1072;                             x_wconf 100">Direc-</span></span><span class="ocr_line" id="line_23" title="bbox 97 1076                         1072 1109;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_289" title="bbox 97 1081                             140 1107;                             x_wconf 100">tor,</span><span class="ocrx_word" id="word_290" title="bbox 142 1076                             186 1107;                             x_wconf 68">IIT</span><span class="ocrx_word" id="word_291" title="bbox 189 1078                             301 1109;                             x_wconf 100">Bombay),</span><span class="ocrx_word" id="word_292" title="bbox 308 1078                             365 1104;                             x_wconf 99">Prof.</span><span class="ocrx_word" id="word_293" title="bbox 369 1076                             397 1105;                             x_wconf 99">S.</span><span class="ocrx_word" id="word_294" title="bbox 402 1078                             527 1107;                             x_wconf 100">Sudarshan,</span><span class="ocrx_word" id="word_295" title="bbox 532 1078                             576 1104;                             x_wconf 100">DD</span><span class="ocrx_word" id="word_296" title="bbox 581 1078                             659 1107;                             x_wconf 74">(AIA),</span><span class="ocrx_word" id="word_297" title="bbox 664 1078                             721 1104;                             x_wconf 100">Prof.</span><span class="ocrx_word" id="word_298" title="bbox 727 1076                             823 1105;                             x_wconf 100">Avinash</span><span class="ocrx_word" id="word_299" title="bbox 830 1078                             935 1107;                             x_wconf 99">Mahajan,</span><span class="ocrx_word" id="word_300" title="bbox 941 1080                             1003 1104;                             x_wconf 100">Dean</span><span class="ocrx_word" id="word_301" title="bbox 1007 1078                             1072 1109;                             x_wconf 97">(AP),</span></span><span class="ocr_line" id="line_24" title="bbox 98 1109                         1076 1141;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_302" title="bbox 98 1110                             155 1136;                             x_wconf 100">Prof.</span><span class="ocrx_word" id="word_303" title="bbox 158 1110                             221 1139;                             x_wconf 100">A.M.</span><span class="ocrx_word" id="word_304" title="bbox 225 1112                             320 1141;                             x_wconf 100">Pradeep,</span><span class="ocrx_word" id="word_305" title="bbox 326 1112                             434 1136;                             x_wconf 99">Associate</span><span class="ocrx_word" id="word_306" title="bbox 438 1112                             498 1136;                             x_wconf 100">Dean</span><span class="ocrx_word" id="word_307" title="bbox 503 1110                             590 1141;                             x_wconf 76">(R&amp;D),</span><span class="ocrx_word" id="word_308" title="bbox 594 1110                             651 1136;                             x_wconf 100">Prof.</span><span class="ocrx_word" id="word_309" title="bbox 655 1112                             746 1136;                             x_wconf 100">Santanu</span><span class="ocrx_word" id="word_310" title="bbox 751 1112                             851 1141;                             x_wconf 90">Banerjee</span><span class="ocrx_word" id="word_311" title="bbox 855 1110                             928 1139;                             x_wconf 98">(Earth</span><span class="ocrx_word" id="word_312" title="bbox 931 1112                             1026 1136;                             x_wconf 100">sciences</span><span class="ocrx_word" id="word_313" title="bbox 1028 1109                             1076 1139;                             x_wconf 100">De-</span></span><span class="ocr_line" id="line_25" title="bbox 99 1143                         1071 1175;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_314" title="bbox 99 1149                             205 1173;                             x_wconf 88">partment,</span><span class="ocrx_word" id="word_315" title="bbox 210 1143                             274 1172;                             x_wconf 100">other</span><span class="ocrx_word" id="word_316" title="bbox 277 1146                             423 1169;                             x_wconf 95">functionaries</span><span class="ocrx_word" id="word_317" title="bbox 427 1144                             472 1170;                             x_wconf 100">and</span><span class="ocrx_word" id="word_318" title="bbox 475 1143                             549 1172;                             x_wconf 100">Heads</span><span class="ocrx_word" id="word_319" title="bbox 552 1144                             582 1170;                             x_wconf 100">of</span><span class="ocrx_word" id="word_320" title="bbox 584 1146                             691 1169;                             x_wconf 98">academic</span><span class="ocrx_word" id="word_321" title="bbox 696 1144                             753 1170;                             x_wconf 100">units</span><span class="ocrx_word" id="word_322" title="bbox 757 1144                             801 1170;                             x_wconf 100">and</span><span class="ocrx_word" id="word_323" title="bbox 805 1144                             860 1170;                             x_wconf 100">their</span><span class="ocrx_word" id="word_324" title="bbox 864 1149                             916 1175;                             x_wconf 100">very</span><span class="ocrx_word" id="word_325" title="bbox 921 1146                             1017 1170;                             x_wconf 99">valuable</span><span class="ocrx_word" id="word_326" title="bbox 1021 1149                             1071 1175;                             x_wconf 94">sug-</span></span><span class="ocr_line" id="line_26" title="bbox 98 1173                         1071 1209;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_327" title="bbox 98 1178                             191 1207;                             x_wconf 100">gestions</span><span class="ocrx_word" id="word_328" title="bbox 196 1177                             253 1202;                             x_wconf 100">have</span><span class="ocrx_word" id="word_329" title="bbox 256 1177                             311 1202;                             x_wconf 99">been</span><span class="ocrx_word" id="word_330" title="bbox 317 1178                             464 1207;                             x_wconf 99">incorporated.</span><span class="ocrx_word" id="word_331" title="bbox 470 1177                             517 1202;                             x_wconf 100">The</span><span class="ocrx_word" id="word_332" title="bbox 521 1177                             595 1207;                             x_wconf 100">timely</span><span class="ocrx_word" id="word_333" title="bbox 598 1177                             651 1209;                             x_wconf 100">help</span><span class="ocrx_word" id="word_334" title="bbox 654 1177                             697 1202;                             x_wconf 100">and</span><span class="ocrx_word" id="word_335" title="bbox 700 1175                             778 1204;                             x_wconf 60">efforts</span><span class="ocrx_word" id="word_336" title="bbox 778 1173                             813 1206;                             x_wconf 100">of</span><span class="ocrx_word" id="word_337" title="bbox 811 1177                             850 1202;                             x_wconf 100">Dr.</span><span class="ocrx_word" id="word_338" title="bbox 857 1178                             1071 1207;                             x_wconf 88">K.V.Reghuthaman,</span></span><span class="ocr_line" id="line_27" title="bbox 98 1209                         1072 1241;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_339" title="bbox 98 1211                             153 1236;                             x_wconf 99">Joint</span><span class="ocrx_word" id="word_340" title="bbox 161 1211                             264 1241;                             x_wconf 96">Registrar,</span><span class="ocrx_word" id="word_341" title="bbox 272 1211                             313 1236;                             x_wconf 100">Mr.</span><span class="ocrx_word" id="word_342" title="bbox 321 1211                             395 1241;                             x_wconf 95">Sanjay</span><span class="ocrx_word" id="word_343" title="bbox 402 1209                             466 1240;                             x_wconf 100">Shah,</span><span class="ocrx_word" id="word_344" title="bbox 472 1211                             571 1235;                             x_wconf 100">Assistant</span><span class="ocrx_word" id="word_345" title="bbox 579 1211                             684 1241;                             x_wconf 100">Registrar,</span><span class="ocrx_word" id="word_346" title="bbox 691 1211                             734 1236;                             x_wconf 84">Ms.</span><span class="ocrx_word" id="word_347" title="bbox 742 1211                             825 1241;                             x_wconf 100">Falguni</span><span class="ocrx_word" id="word_348" title="bbox 832 1211                             928 1241;                             x_wconf 100">Banerjee</span><span class="ocrx_word" id="word_349" title="bbox 935 1209                             996 1238;                             x_wconf 100">Naha</span><span class="ocrx_word" id="word_350" title="bbox 1001 1209                             1072 1240;                             x_wconf 99">(PRO)</span></span><span class="ocr_line" id="line_28" title="bbox 98 1240                         1076 1274;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_351" title="bbox 98 1243                             141 1269;                             x_wconf 100">and</span><span class="ocrx_word" id="word_352" title="bbox 145 1243                             183 1272;                             x_wconf 100">the</span><span class="ocrx_word" id="word_353" title="bbox 185 1243                             239 1269;                             x_wconf 100">staff</span><span class="ocrx_word" id="word_354" title="bbox 242 1243                             297 1269;                             x_wconf 97">from</span><span class="ocrx_word" id="word_355" title="bbox 301 1243                             357 1269;                             x_wconf 100">their</span><span class="ocrx_word" id="word_356" title="bbox 358 1241                             438 1270;                             x_wconf 100">offices</span><span class="ocrx_word" id="word_357" title="bbox 440 1243                             483 1269;                             x_wconf 100">and</span><span class="ocrx_word" id="word_358" title="bbox 487 1243                             531 1269;                             x_wconf 98">Ms.</span><span class="ocrx_word" id="word_359" title="bbox 536 1241                             622 1270;                             x_wconf 100">Archita</span><span class="ocrx_word" id="word_360" title="bbox 625 1241                             686 1272;                             x_wconf 100">Patil,</span><span class="ocrx_word" id="word_361" title="bbox 688 1241                             751 1270;                             x_wconf 100">Dean</span><span class="ocrx_word" id="word_362" title="bbox 754 1241                             811 1274;                             x_wconf 99">(FA)</span><span class="ocrx_word" id="word_363" title="bbox 814 1241                             882 1270;                             x_wconf 100">office</span><span class="ocrx_word" id="word_364" title="bbox 886 1243                             937 1269;                             x_wconf 100">who</span><span class="ocrx_word" id="word_365" title="bbox 940 1243                             1034 1267;                             x_wconf 99">checked</span><span class="ocrx_word" id="word_366" title="bbox 1035 1240                             1076 1272;                             x_wconf 100">the</span></span><span class="ocr_line" id="line_29" title="bbox 97 1275                         1076 1309;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_367" title="bbox 97 1275                             176 1304;                             x_wconf 100">details</span><span class="ocrx_word" id="word_368" title="bbox 180 1277                             218 1303;                             x_wconf 100">for</span><span class="ocrx_word" id="word_369" title="bbox 221 1280                             324 1309;                             x_wconf 100">accuracy</span><span class="ocrx_word" id="word_370" title="bbox 329 1278                             417 1303;                             x_wconf 69">deserve</span><span class="ocrx_word" id="word_371" title="bbox 424 1277                             503 1308;                             x_wconf 100">special</span><span class="ocrx_word" id="word_372" title="bbox 511 1278                             655 1308;                             x_wconf 92">appreciation.</span><span class="ocrx_word" id="word_373" title="bbox 682 1277                             769 1308;                             x_wconf 99">Finally,</span><span class="ocrx_word" id="word_374" title="bbox 774 1275                             815 1306;                             x_wconf 100">the</span><span class="ocrx_word" id="word_375" title="bbox 819 1277                             921 1306;                             x_wconf 100">Director,</span><span class="ocrx_word" id="word_376" title="bbox 928 1277                             985 1303;                             x_wconf 100">Prof.</span><span class="ocrx_word" id="word_377" title="bbox 991 1275                             1076 1304;                             x_wconf 100">Subha-</span></span><span class="ocr_line" id="line_30" title="bbox 96 1308                         1075 1340;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_378" title="bbox 96 1308                             132 1340;                             x_wconf 100">sis</span><span class="ocrx_word" id="word_379" title="bbox 137 1312                             261 1337;                             x_wconf 99">Chaudhuri,</span><span class="ocrx_word" id="word_380" title="bbox 268 1311                             308 1337;                             x_wconf 100">has</span><span class="ocrx_word" id="word_381" title="bbox 312 1311                             394 1340;                             x_wconf 99">always</span><span class="ocrx_word" id="word_382" title="bbox 400 1311                             482 1335;                             x_wconf 100">offered</span><span class="ocrx_word" id="word_383" title="bbox 488 1312                             584 1337;                             x_wconf 100">constant</span><span class="ocrx_word" id="word_384" title="bbox 589 1316                             675 1340;                             x_wconf 100">support</span><span class="ocrx_word" id="word_385" title="bbox 679 1311                             724 1337;                             x_wconf 100">and</span><span class="ocrx_word" id="word_386" title="bbox 729 1316                             899 1338;                             x_wconf 53">encouragement</span><span class="ocrx_word" id="word_387" title="bbox 907 1311                             1030 1340;                             x_wconf 99">throughout</span><span class="ocrx_word" id="word_388" title="bbox 1034 1308                             1075 1338;                             x_wconf 100">the</span></span><span class="ocr_line" id="line_31" title="bbox 101 1390                         1063 1422;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_389" title="bbox 101 1392                             124 1421;                             x_wconf 100">It</span><span class="ocrx_word" id="word_390" title="bbox 115 1393                             171 1419;                             x_wconf 100">trust</span><span class="ocrx_word" id="word_391" title="bbox 176 1392                             222 1417;                             x_wconf 100">that</span><span class="ocrx_word" id="word_392" title="bbox 228 1392                             271 1417;                             x_wconf 78">this</span><span class="ocrx_word" id="word_393" title="bbox 279 1393                             361 1417;                             x_wconf 100">version</span><span class="ocrx_word" id="word_394" title="bbox 369 1392                             415 1417;                             x_wconf 100">will</span><span class="ocrx_word" id="word_395" title="bbox 423 1398                             484 1417;                             x_wconf 93">serve</span><span class="ocrx_word" id="word_396" title="bbox 489 1395                             520 1421;                             x_wconf 100">as</span><span class="ocrx_word" id="word_397" title="bbox 522 1396                             541 1419;                             x_wconf 100">a</span><span class="ocrx_word" id="word_398" title="bbox 545 1392                             615 1422;                             x_wconf 98">handy</span><span class="ocrx_word" id="word_399" title="bbox 623 1393                             729 1417;                             x_wconf 99">reference</span><span class="ocrx_word" id="word_400" title="bbox 734 1395                             769 1421;                             x_wconf 100">on</span><span class="ocrx_word" id="word_401" title="bbox 775 1393                             897 1422;                             x_wconf 98">day-to-day</span><span class="ocrx_word" id="word_402" title="bbox 905 1396                             987 1416;                             x_wconf 100">matters</span><span class="ocrx_word" id="word_403" title="bbox 995 1392                             1034 1421;                             x_wconf 100">for</span><span class="ocrx_word" id="word_404" title="bbox 1036 1390                             1063 1417;                             x_wconf 72">all</span></span></p></div><div class="ocr_carea" id="block_3" title="bbox 98 432                     244 457"><p class="ocr_par" id="par_3" title="bbox 98 432                     244 457"><span class="ocr_line" id="line_32" title="bbox 98 432                         244 457;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_405" title="bbox 98 432                             146 457;                             x_wconf 100">into</span><span class="ocrx_word" id="word_406" title="bbox 148 435                             244 457;                             x_wconf 99">account.</span></span></p></div><div class="ocr_carea" id="block_4" title="bbox 98 613                     626 646"><p class="ocr_par" id="par_4" title="bbox 98 613                     626 646"><span class="ocr_line" id="line_33" title="bbox 98 613                         626 646;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_407" title="bbox 98 614                             137 640;                             x_wconf 93">the</span><span class="ocrx_word" id="word_408" title="bbox 138 613                             210 642;                             x_wconf 94">issues</span><span class="ocrx_word" id="word_409" title="bbox 212 614                             258 640;                             x_wconf 100">that</span><span class="ocrx_word" id="word_410" title="bbox 260 617                             352 640;                             x_wconf 99">concern</span><span class="ocrx_word" id="word_411" title="bbox 354 617                             429 646;                             x_wconf 99">young</span><span class="ocrx_word" id="word_412" title="bbox 433 614                             512 645;                             x_wconf 93">faculty</span><span class="ocrx_word" id="word_413" title="bbox 516 616                             626 640;                             x_wconf 100">members.</span></span></p></div><div class="ocr_carea" id="block_5" title="bbox 98 1343                     402 1556"><p class="ocr_par" id="par_5" title="bbox 98 1343                     402 1556"><span class="ocr_line" id="line_34" title="bbox 99 1343                         402 1374;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_414" title="bbox 99 1343                             211 1367;                             x_wconf 100">handbook</span><span class="ocrx_word" id="word_415" title="bbox 214 1345                             307 1369;                             x_wconf 97">revision</span><span class="ocrx_word" id="word_416" title="bbox 312 1350                             402 1374;                             x_wconf 100">process.</span></span><span class="ocr_line" id="line_35" title="bbox 99 1425                         292 1456;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_417" title="bbox 99 1425                             178 1456;                             x_wconf 98">faculty</span><span class="ocrx_word" id="word_418" title="bbox 183 1427                             292 1451;                             x_wconf 97">members.</span></span><span class="ocr_line" id="line_36" title="bbox 98 1472                         360 1506;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_419" title="bbox 98 1472                             157 1503;                             x_wconf 55">Prof.</span><span class="ocrx_word" id="word_420" title="bbox 182 1474                             252 1503;                             x_wconf 100">Neela</span><span class="ocrx_word" id="word_421" title="bbox 276 1476                             360 1506;                             x_wconf 100">Nataraj</span></span><span class="ocr_line" id="line_37" title="bbox 98 1524                         358 1556;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_422" title="bbox 98 1524                             176 1555;                             x_wconf 62">(Dean,</span><span class="ocrx_word" id="word_423" title="bbox 179 1526                             264 1556;                             x_wconf 99">Faculty</span><span class="ocrx_word" id="word_424" title="bbox 268 1526                             358 1555;                             x_wconf 100">Affairs)</span></span></p></div><div class="ocr_carea" id="block_6" title="bbox 576 1581                     591 1607"><p class="ocr_par" id="par_6" title="bbox 576 1581                     591 1607"><span class="ocr_line" id="line_38" title="bbox 576 1581                         591 1607;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0"><span class="ocrx_word" id="word_425" title="bbox 576 1581                             591 1607;                             x_wconf 100">5</span></span></p></div></body></html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>docTR - XML export (hOCR)</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="ocr-system" content="python-doctr 0.7.0a0" />
+        <meta name="ocr-capabilities" content="ocr_page ocr_carea ocr_par ocr_line ocrx_word" />
+    </head>
+    <body>
+        <div class="ocr_page" id="page_1" title="image; bbox 0 0 1167 1655; ppageno 0" />
+        <div class="ocr_carea" id="block_1" title="bbox 519 218 650 254">
+            <p class="ocr_par" id="par_1" title="bbox 519 218                     650 254">
+                <span class="ocr_line" id="line_1"
+                    title="bbox 519 218                         650 254;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_1"
+                        title="bbox 519 218                             650 254;                             x_wconf 100">
+                        Preface</span>
+                </span>
+            </p>
+        </div>
+        <div class="ocr_carea" id="block_2" title="bbox 94 262                     1080 1424">
+            <p class="ocr_par" id="par_2" title="bbox 94 262                     1080 1424">
+                <span class="ocr_line" id="line_2"
+                    title="bbox 94 262                         1075 299;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_2"
+                        title="bbox 94 265                             146 293;                             x_wconf 97">
+                        The</span>
+                    <span class="ocrx_word" id="word_3"
+                        title="bbox 144 263                             233 299;                             x_wconf 98">
+                        Faculty</span>
+                    <span class="ocrx_word" id="word_4"
+                        title="bbox 234 267                             349 291;                             x_wconf 100">
+                        Handbook</span>
+                    <span class="ocrx_word" id="word_5"
+                        title="bbox 349 263                             380 294;                             x_wconf 99">
+                        is</span>
+                    <span class="ocrx_word" id="word_6"
+                        title="bbox 378 270                             411 293;                             x_wconf 100">
+                        an</span>
+                    <span class="ocrx_word" id="word_7"
+                        title="bbox 412 267                             524 297;                             x_wconf 99">
+                        extremely</span>
+                    <span class="ocrx_word" id="word_8"
+                        title="bbox 525 263                             598 294;                             x_wconf 100">
+                        useful</span>
+                    <span class="ocrx_word" id="word_9"
+                        title="bbox 600 267                             710 291;                             x_wconf 100">
+                        document</span>
+                    <span class="ocrx_word" id="word_10"
+                        title="bbox 710 263                             774 294;                             x_wconf 100">
+                        since</span>
+                    <span class="ocrx_word" id="word_11"
+                        title="bbox 771 262                             800 296;                             x_wconf 100">
+                        it</span>
+                    <span class="ocrx_word" id="word_12"
+                        title="bbox 798 267                             934 291;                             x_wconf 54">
+                        consolidates</span>
+                    <span class="ocrx_word" id="word_13"
+                        title="bbox 936 263                             1004 294;                             x_wconf 100">
+                        much</span>
+                    <span class="ocrx_word" id="word_14"
+                        title="bbox 1002 263                             1036 294;                             x_wconf 100">
+                        of</span>
+                    <span class="ocrx_word" id="word_15"
+                        title="bbox 1034 265                             1075 293;                             x_wconf 88">
+                        the</span>
+                </span>
+                <span class="ocr_line" id="line_3"
+                    title="bbox 99 296                         1078 330;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_16"
+                        title="bbox 99 299                             233 323;                             x_wconf 100">
+                        information</span>
+                    <span class="ocrx_word" id="word_17"
+                        title="bbox 233 296                             285 328;                             x_wconf 99">
+                        that</span>
+                    <span class="ocrx_word" id="word_18"
+                        title="bbox 283 297                             325 326;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_19"
+                        title="bbox 325 299                             406 330;                             x_wconf 98">
+                        faculty</span>
+                    <span class="ocrx_word" id="word_20"
+                        title="bbox 407 297                             516 326;                             x_wconf 100">
+                        members</span>
+                    <span class="ocrx_word" id="word_21"
+                        title="bbox 516 296                             577 326;                             x_wconf 100">
+                        need</span>
+                    <span class="ocrx_word" id="word_22"
+                        title="bbox 574 297                             655 330;                             x_wconf 90">
+                        during</span>
+                    <span class="ocrx_word" id="word_23"
+                        title="bbox 653 296                             714 326;                             x_wconf 100">
+                        their</span>
+                    <span class="ocrx_word" id="word_24"
+                        title="bbox 713 304                             795 323;                             x_wconf 99">
+                        careers</span>
+                    <span class="ocrx_word" id="word_25"
+                        title="bbox 797 301                             826 325;                             x_wconf 98">
+                        at</span>
+                    <span class="ocrx_word" id="word_26"
+                        title="bbox 823 297                             866 325;                             x_wconf 99">
+                        IIT</span>
+                    <span class="ocrx_word" id="word_27"
+                        title="bbox 868 299                             971 330;                             x_wconf 100">
+                        Bombay.</span>
+                    <span class="ocrx_word" id="word_28"
+                        title="bbox 973 296                             1026 328;                             x_wconf 100">
+                        The</span>
+                    <span class="ocrx_word" id="word_29"
+                        title="bbox 1025 296                             1078 328;                             x_wconf 100">
+                        first</span>
+                </span>
+                <span class="ocr_line" id="line_4"
+                    title="bbox 99 330                         1073 362;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_30"
+                        title="bbox 99 331                             183 359;                             x_wconf 99">
+                        edition</span>
+                    <span class="ocrx_word" id="word_31"
+                        title="bbox 183 335                             234 360;                             x_wconf 100">
+                        was</span>
+                    <span class="ocrx_word" id="word_32"
+                        title="bbox 236 331                             328 362;                             x_wconf 97">
+                        brought</span>
+                    <span class="ocrx_word" id="word_33"
+                        title="bbox 328 333                             373 360;                             x_wconf 100">
+                        out</span>
+                    <span class="ocrx_word" id="word_34"
+                        title="bbox 372 330                             404 360;                             x_wconf 72">
+                        in</span>
+                    <span class="ocrx_word" id="word_35"
+                        title="bbox 406 331                             474 357;                             x_wconf 100">
+                        2014.</span>
+                    <span class="ocrx_word" id="word_36"
+                        title="bbox 477 331                             540 357;                             x_wconf 100">
+                        Over</span>
+                    <span class="ocrx_word" id="word_37"
+                        title="bbox 540 331                             582 359;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_38"
+                        title="bbox 584 336                             655 362;                             x_wconf 100">
+                        years,</span>
+                    <span class="ocrx_word" id="word_39"
+                        title="bbox 656 330                             721 360;                             x_wconf 100">
+                        there</span>
+                    <span class="ocrx_word" id="word_40"
+                        title="bbox 721 330                             782 360;                             x_wconf 97">
+                        have</span>
+                    <span class="ocrx_word" id="word_41"
+                        title="bbox 782 330                             844 360;                             x_wconf 100">
+                        been</span>
+                    <span class="ocrx_word" id="word_42"
+                        title="bbox 844 330                             929 360;                             x_wconf 100">
+                        several</span>
+                    <span class="ocrx_word" id="word_43"
+                        title="bbox 934 331                             1073 362;                             x_wconf 100">
+                        far-reaching</span>
+                </span>
+                <span class="ocr_line" id="line_5"
+                    title="bbox 97 362                         1075 398;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_44"
+                        title="bbox 97 365                             192 396;                             x_wconf 100">
+                        changes</span>
+                    <span class="ocrx_word" id="word_45"
+                        title="bbox 192 362                             225 393;                             x_wconf 100">
+                        in</span>
+                    <span class="ocrx_word" id="word_46"
+                        title="bbox 223 364                             268 394;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_47"
+                        title="bbox 267 368                             407 398;                             x_wconf 100">
+                        governance,</span>
+                    <span class="ocrx_word" id="word_48"
+                        title="bbox 409 364                             545 393;                             x_wconf 82">
+                        recruitment</span>
+                    <span class="ocrx_word" id="word_49"
+                        title="bbox 548 365                             645 396;                             x_wconf 100">
+                        policies,</span>
+                    <span class="ocrx_word" id="word_50"
+                        title="bbox 647 365                             721 396;                             x_wconf 100">
+                        salary</span>
+                    <span class="ocrx_word" id="word_51"
+                        title="bbox 722 368                             831 393;                             x_wconf 100">
+                        structure,</span>
+                    <span class="ocrx_word" id="word_52"
+                        title="bbox 832 367                             881 393;                             x_wconf 96">
+                        etc.</span>
+                    <span class="ocrx_word" id="word_53"
+                        title="bbox 879 362                             941 393;                             x_wconf 100">
+                        This</span>
+                    <span class="ocrx_word" id="word_54"
+                        title="bbox 941 365                             1025 393;                             x_wconf 100">
+                        second</span>
+                    <span class="ocrx_word" id="word_55"
+                        title="bbox 1025 364                             1075 391;                             x_wconf 100">
+                        edi-</span>
+                </span>
+                <span class="ocr_line" id="line_6"
+                    title="bbox 95 394                         1076 432;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_56"
+                        title="bbox 95 394                             149 427;                             x_wconf 100">
+                        tion</span>
+                    <span class="ocrx_word" id="word_57"
+                        title="bbox 147 396                             183 425;                             x_wconf 100">
+                        of</span>
+                    <span class="ocrx_word" id="word_58"
+                        title="bbox 179 396                             221 425;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_59"
+                        title="bbox 223 396                             344 425;                             x_wconf 100">
+                        Handbook</span>
+                    <span class="ocrx_word" id="word_60"
+                        title="bbox 344 394                             393 427;                             x_wconf 100">
+                        has</span>
+                    <span class="ocrx_word" id="word_61"
+                        title="bbox 390 394                             453 425;                             x_wconf 100">
+                        been</span>
+                    <span class="ocrx_word" id="word_62"
+                        title="bbox 454 398                             579 428;                             x_wconf 100">
+                        thoroughly</span>
+                    <span class="ocrx_word" id="word_63"
+                        title="bbox 580 396                             669 425;                             x_wconf 100">
+                        revised</span>
+                    <span class="ocrx_word" id="word_64"
+                        title="bbox 668 394                             719 427;                             x_wconf 100">
+                        and</span>
+                    <span class="ocrx_word" id="word_65"
+                        title="bbox 719 398                             813 428;                             x_wconf 100">
+                        updated</span>
+                    <span class="ocrx_word" id="word_66"
+                        title="bbox 813 398                             847 427;                             x_wconf 100">
+                        to</span>
+                    <span class="ocrx_word" id="word_67"
+                        title="bbox 845 398                             899 423;                             x_wconf 100">
+                        take</span>
+                    <span class="ocrx_word" id="word_68"
+                        title="bbox 899 396                             936 425;                             x_wconf 100">
+                        all</span>
+                    <span class="ocrx_word" id="word_69"
+                        title="bbox 934 396                             976 425;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_70"
+                        title="bbox 976 396                             1076 432;                             x_wconf 99">
+                        changes</span>
+                </span>
+                <span class="ocr_line" id="line_7"
+                    title="bbox 94 477                         1075 516;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_71"
+                        title="bbox 94 478                             170 509;                             x_wconf 99">
+                        There</span>
+                    <span class="ocrx_word" id="word_72"
+                        title="bbox 167 483                             212 509;                             x_wconf 99">
+                        are</span>
+                    <span class="ocrx_word" id="word_73"
+                        title="bbox 210 486                             278 512;                             x_wconf 79">
+                        many</span>
+                    <span class="ocrx_word" id="word_74"
+                        title="bbox 281 482                             365 509;                             x_wconf 100">
+                        written</span>
+                    <span class="ocrx_word" id="word_75"
+                        title="bbox 365 480                             423 512;                             x_wconf 95">
+                        (and</span>
+                    <span class="ocrx_word" id="word_76"
+                        title="bbox 422 485                             488 509;                             x_wconf 100">
+                        some</span>
+                    <span class="ocrx_word" id="word_77"
+                        title="bbox 490 482                             611 511;                             x_wconf 97">
+                        unwritten)</span>
+                    <span class="ocrx_word" id="word_78"
+                        title="bbox 609 478                             674 509;                             x_wconf 61">
+                        rules</span>
+                    <span class="ocrx_word" id="word_79"
+                        title="bbox 674 480                             722 507;                             x_wconf 100">
+                        that</span>
+                    <span class="ocrx_word" id="word_80"
+                        title="bbox 724 486                             808 514;                             x_wconf 99">
+                        govern</span>
+                    <span class="ocrx_word" id="word_81"
+                        title="bbox 807 483                             857 516;                             x_wconf 100">
+                        any</span>
+                    <span class="ocrx_word" id="word_82"
+                        title="bbox 857 482                             973 506;                             x_wconf 98">
+                        institution</span>
+                    <span class="ocrx_word" id="word_83"
+                        title="bbox 975 477                             1026 509;                             x_wconf 97">
+                        like</span>
+                    <span class="ocrx_word" id="word_84"
+                        title="bbox 1025 480                             1075 507;                             x_wconf 100">
+                        IIT.</span>
+                </span>
+                <span class="ocr_line" id="line_8"
+                    title="bbox 95 511                         1076 548;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_85"
+                        title="bbox 95 511                             170 548;                             x_wconf 100">
+                        Many</span>
+                    <span class="ocrx_word" id="word_86"
+                        title="bbox 168 512                             228 543;                             x_wconf 100">
+                        such</span>
+                    <span class="ocrx_word" id="word_87"
+                        title="bbox 226 514                             288 540;                             x_wconf 100">
+                        rules</span>
+                    <span class="ocrx_word" id="word_88"
+                        title="bbox 288 514                             348 540;                             x_wconf 100">
+                        have</span>
+                    <span class="ocrx_word" id="word_89"
+                        title="bbox 348 514                             406 540;                             x_wconf 100">
+                        been</span>
+                    <span class="ocrx_word" id="word_90"
+                        title="bbox 409 514                             508 545;                             x_wconf 100">
+                        captured</span>
+                    <span class="ocrx_word" id="word_91"
+                        title="bbox 511 514                             634 545;                             x_wconf 95">
+                        succinctly,</span>
+                    <span class="ocrx_word" id="word_92"
+                        title="bbox 637 514                             740 545;                             x_wconf 100">
+                        although</span>
+                    <span class="ocrx_word" id="word_93"
+                        title="bbox 740 517                             807 541;                             x_wconf 98">
+                        some</span>
+                    <span class="ocrx_word" id="word_94"
+                        title="bbox 807 514                             866 540;                             x_wconf 100">
+                        have</span>
+                    <span class="ocrx_word" id="word_95"
+                        title="bbox 865 517                             904 543;                             x_wconf 100">
+                        no</span>
+                    <span class="ocrx_word" id="word_96"
+                        title="bbox 902 514                             971 540;                             x_wconf 100">
+                        doubt</span>
+                    <span class="ocrx_word" id="word_97"
+                        title="bbox 970 511                             1033 541;                             x_wconf 100">
+                        been</span>
+                    <span class="ocrx_word" id="word_98"
+                        title="bbox 1031 512                             1076 543;                             x_wconf 100">
+                        left</span>
+                </span>
+                <span class="ocr_line" id="line_9"
+                    title="bbox 95 545                         1078 582;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_99"
+                        title="bbox 95 548                             141 575;                             x_wconf 100">
+                        out</span>
+                    <span class="ocrx_word" id="word_100"
+                        title="bbox 142 548                             299 577;                             x_wconf 64">
+                        inadvertently.</span>
+                    <span class="ocrx_word" id="word_101"
+                        title="bbox 302 545                             333 575;                             x_wconf 100">
+                        A</span>
+                    <span class="ocrx_word" id="word_102"
+                        title="bbox 333 545                             451 574;                             x_wconf 63">
+                        handbook</span>
+                    <span class="ocrx_word" id="word_103"
+                        title="bbox 451 545                             511 575;                             x_wconf 100">
+                        such</span>
+                    <span class="ocrx_word" id="word_104"
+                        title="bbox 511 551                             543 574;                             x_wconf 100">
+                        as</span>
+                    <span class="ocrx_word" id="word_105"
+                        title="bbox 543 545                             600 577;                             x_wconf 100">
+                        this,</span>
+                    <span class="ocrx_word" id="word_106"
+                        title="bbox 598 545                             627 575;                             x_wconf 37">
+                        I</span>
+                    <span class="ocrx_word" id="word_107"
+                        title="bbox 617 546                             713 575;                             x_wconf 98">
+                        believe,</span>
+                    <span class="ocrx_word" id="word_108"
+                        title="bbox 713 545                             745 575;                             x_wconf 100">
+                        is</span>
+                    <span class="ocrx_word" id="word_109"
+                        title="bbox 745 548                             876 579;                             x_wconf 99">
+                        particularly</span>
+                    <span class="ocrx_word" id="word_110"
+                        title="bbox 882 546                             955 572;                             x_wconf 100">
+                        useful</span>
+                    <span class="ocrx_word" id="word_111"
+                        title="bbox 957 545                             1002 575;                             x_wconf 100">
+                        for</span>
+                    <span class="ocrx_word" id="word_112"
+                        title="bbox 999 551                             1078 582;                             x_wconf 100">
+                        young</span>
+                </span>
+                <span class="ocr_line" id="line_10"
+                    title="bbox 97 579                         1078 614;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_113"
+                        title="bbox 97 579                             183 614;                             x_wconf 99">
+                        faculty</span>
+                    <span class="ocrx_word" id="word_114"
+                        title="bbox 183 582                             288 606;                             x_wconf 91">
+                        members</span>
+                    <span class="ocrx_word" id="word_115"
+                        title="bbox 288 580                             327 608;                             x_wconf 100">
+                        oft</span>
+                    <span class="ocrx_word" id="word_116"
+                        title="bbox 315 580                             359 608;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_117"
+                        title="bbox 357 579                             461 608;                             x_wconf 100">
+                        institute.</span>
+                    <span class="ocrx_word" id="word_118"
+                        title="bbox 464 582                             590 611;                             x_wconf 100">
+                        Significant</span>
+                    <span class="ocrx_word" id="word_119"
+                        title="bbox 592 580                             669 606;                             x_wconf 100">
+                        efforts</span>
+                    <span class="ocrx_word" id="word_120"
+                        title="bbox 668 579                             729 609;                             x_wconf 87">
+                        have</span>
+                    <span class="ocrx_word" id="word_121"
+                        title="bbox 729 582                             834 606;                             x_wconf 96">
+                        therefore</span>
+                    <span class="ocrx_word" id="word_122"
+                        title="bbox 832 579                             895 609;                             x_wconf 100">
+                        been</span>
+                    <span class="ocrx_word" id="word_123"
+                        title="bbox 894 580                             960 606;                             x_wconf 99">
+                        made</span>
+                    <span class="ocrx_word" id="word_124"
+                        title="bbox 960 583                             988 608;                             x_wconf 100">
+                        to</span>
+                    <span class="ocrx_word" id="word_125"
+                        title="bbox 986 579                             1078 608;                             x_wconf 100">
+                        address</span>
+                </span>
+                <span class="ocr_line" id="line_11"
+                    title="bbox 99 661                         1072 697;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_126"
+                        title="bbox 99 664                             231 689;                             x_wconf 99">
+                        Disclaimer:</span>
+                    <span class="ocrx_word" id="word_127"
+                        title="bbox 238 664                             310 690;                             x_wconf 93">
+                        While</span>
+                    <span class="ocrx_word" id="word_128"
+                        title="bbox 314 669                             383 695;                             x_wconf 100">
+                        every</span>
+                    <span class="ocrx_word" id="word_129"
+                        title="bbox 386 664                             454 690;                             x_wconf 100">
+                        effort</span>
+                    <span class="ocrx_word" id="word_130"
+                        title="bbox 456 663                             503 690;                             x_wconf 100">
+                        has</span>
+                    <span class="ocrx_word" id="word_131"
+                        title="bbox 503 661                             564 692;                             x_wconf 100">
+                        been</span>
+                    <span class="ocrx_word" id="word_132"
+                        title="bbox 567 664                             634 690;                             x_wconf 89">
+                        made</span>
+                    <span class="ocrx_word" id="word_133"
+                        title="bbox 634 664                             668 693;                             x_wconf 100">
+                        to</span>
+                    <span class="ocrx_word" id="word_134"
+                        title="bbox 668 663                             727 697;                             x_wconf 100">
+                        keep</span>
+                    <span class="ocrx_word" id="word_135"
+                        title="bbox 729 663                             771 692;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_136"
+                        title="bbox 776 664                             895 689;                             x_wconf 100">
+                        Handbook</span>
+                    <span class="ocrx_word" id="word_137"
+                        title="bbox 900 664                             1020 695;                             x_wconf 100">
+                        up-to-date</span>
+                    <span class="ocrx_word" id="word_138"
+                        title="bbox 1020 661                             1072 693;                             x_wconf 100">
+                        and</span>
+                </span>
+                <span class="ocr_line" id="line_12"
+                    title="bbox 95 693                         1070 731;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_139"
+                        title="bbox 95 698                             204 727;                             x_wconf 100">
+                        accurate,</span>
+                    <span class="ocrx_word" id="word_140"
+                        title="bbox 204 695                             228 724;                             x_wconf 100">
+                        it</span>
+                    <span class="ocrx_word" id="word_141"
+                        title="bbox 228 697                             307 722;                             x_wconf 99">
+                        should</span>
+                    <span class="ocrx_word" id="word_142"
+                        title="bbox 309 698                             354 724;                             x_wconf 99">
+                        not</span>
+                    <span class="ocrx_word" id="word_143"
+                        title="bbox 351 695                             388 724;                             x_wconf 100">
+                        be</span>
+                    <span class="ocrx_word" id="word_144"
+                        title="bbox 388 697                             491 727;                             x_wconf 100">
+                        regarded</span>
+                    <span class="ocrx_word" id="word_145"
+                        title="bbox 491 701                             524 724;                             x_wconf 100">
+                        as</span>
+                    <span class="ocrx_word" id="word_146"
+                        title="bbox 524 695                             677 724;                             x_wconf 95">
+                        authoritative.</span>
+                    <span class="ocrx_word" id="word_147"
+                        title="bbox 679 697                             755 729;                             x_wconf 100">
+                        Going</span>
+                    <span class="ocrx_word" id="word_148"
+                        title="bbox 753 693                             794 731;                             x_wconf 100">
+                        by</span>
+                    <span class="ocrx_word" id="word_149"
+                        title="bbox 790 697                             834 724;                             x_wconf 96">
+                        the</span>
+                    <span class="ocrx_word" id="word_150"
+                        title="bbox 832 700                             891 731;                             x_wconf 97">
+                        very</span>
+                    <span class="ocrx_word" id="word_151"
+                        title="bbox 891 700                             963 726;                             x_wconf 99">
+                        name,</span>
+                    <span class="ocrx_word" id="word_152"
+                        title="bbox 963 693                             992 726;                             x_wconf 100">
+                        it</span>
+                    <span class="ocrx_word" id="word_153"
+                        title="bbox 989 697                             1070 722;                             x_wconf 97">
+                        should</span>
+                </span>
+                <span class="ocr_line" id="line_13"
+                    title="bbox 95 727                         1072 763;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_154"
+                        title="bbox 95 729                             133 758;                             x_wconf 100">
+                        be</span>
+                    <span class="ocrx_word" id="word_155"
+                        title="bbox 133 731                             218 755;                             x_wconf 100">
+                        viewed</span>
+                    <span class="ocrx_word" id="word_156"
+                        title="bbox 220 734                             251 756;                             x_wconf 100">
+                        as</span>
+                    <span class="ocrx_word" id="word_157"
+                        title="bbox 249 732                             273 758;                             x_wconf 100">
+                        a</span>
+                    <span class="ocrx_word" id="word_158"
+                        title="bbox 272 729                             348 761;                             x_wconf 75">
+                        guide;</span>
+                    <span class="ocrx_word" id="word_159"
+                        title="bbox 349 729                             391 756;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_160"
+                        title="bbox 393 731                             470 756;                             x_wconf 100">
+                        details</span>
+                    <span class="ocrx_word" id="word_161"
+                        title="bbox 472 727                             508 758;                             x_wconf 100">
+                        of</span>
+                    <span class="ocrx_word" id="word_162"
+                        title="bbox 503 727                             567 758;                             x_wconf 100">
+                        rules</span>
+                    <span class="ocrx_word" id="word_163"
+                        title="bbox 566 729                             614 756;                             x_wconf 99">
+                        and</span>
+                    <span class="ocrx_word" id="word_164"
+                        title="bbox 616 731                             745 761;                             x_wconf 99">
+                        regulations</span>
+                    <span class="ocrx_word" id="word_165"
+                        title="bbox 748 731                             878 761;                             x_wconf 93">
+                        concerning</span>
+                    <span class="ocrx_word" id="word_166"
+                        title="bbox 879 731                             983 761;                             x_wconf 96">
+                        specifics</span>
+                    <span class="ocrx_word" id="word_167"
+                        title="bbox 983 727                             1072 763;                             x_wconf 83">
+                        require</span>
+                </span>
+                <span class="ocr_line" id="line_14"
+                    title="bbox 99 761                         905 790;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_168"
+                        title="bbox 99 764                             244 787;                             x_wconf 100">
+                        confirmation</span>
+                    <span class="ocrx_word" id="word_169"
+                        title="bbox 247 763                             307 789;                             x_wconf 98">
+                        from</span>
+                    <span class="ocrx_word" id="word_170"
+                        title="bbox 307 761                             349 790;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_171"
+                        title="bbox 348 761                             472 790;                             x_wconf 100">
+                        authorities</span>
+                    <span class="ocrx_word" id="word_172"
+                        title="bbox 470 761                             506 790;                             x_wconf 100">
+                        of</span>
+                    <span class="ocrx_word" id="word_173"
+                        title="bbox 504 763                             668 787;                             x_wconf 73">
+                        administration</span>
+                    <span class="ocrx_word" id="word_174"
+                        title="bbox 669 768                             700 789;                             x_wconf 100">
+                        as</span>
+                    <span class="ocrx_word" id="word_175"
+                        title="bbox 698 763                             747 790;                             x_wconf 76">
+                        and</span>
+                    <span class="ocrx_word" id="word_176"
+                        title="bbox 747 763                             813 789;                             x_wconf 100">
+                        when</span>
+                    <span class="ocrx_word" id="word_177"
+                        title="bbox 813 761                             905 790;                             x_wconf 100">
+                        needed.</span>
+                </span>
+                <span class="ocr_line" id="line_15"
+                    title="bbox 94 810                         1075 847;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_178"
+                        title="bbox 94 811                             149 840;                             x_wconf 100">
+                        The</span>
+                    <span class="ocrx_word" id="word_179"
+                        title="bbox 149 813                             209 839;                             x_wconf 100">
+                        need</span>
+                    <span class="ocrx_word" id="word_180"
+                        title="bbox 209 813                             242 842;                             x_wconf 100">
+                        to</span>
+                    <span class="ocrx_word" id="word_181"
+                        title="bbox 242 813                             323 845;                             x_wconf 100">
+                        update</span>
+                    <span class="ocrx_word" id="word_182"
+                        title="bbox 325 811                             370 842;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_183"
+                        title="bbox 370 811                             493 840;                             x_wconf 100">
+                        Handbook</span>
+                    <span class="ocrx_word" id="word_184"
+                        title="bbox 495 816                             548 840;                             x_wconf 100">
+                        was</span>
+                    <span class="ocrx_word" id="word_185"
+                        title="bbox 550 813                             663 844;                             x_wconf 99">
+                        originally</span>
+                    <span class="ocrx_word" id="word_186"
+                        title="bbox 666 813                             760 844;                             x_wconf 87">
+                        brought</span>
+                    <span class="ocrx_word" id="word_187"
+                        title="bbox 760 813                             794 842;                             x_wconf 100">
+                        to</span>
+                    <span class="ocrx_word" id="word_188"
+                        title="bbox 792 811                             837 842;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_189"
+                        title="bbox 837 811                             889 839;                             x_wconf 100">
+                        fore</span>
+                    <span class="ocrx_word" id="word_190"
+                        title="bbox 889 810                             929 847;                             x_wconf 100">
+                        by</span>
+                    <span class="ocrx_word" id="word_191"
+                        title="bbox 929 813                             989 839;                             x_wconf 99">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_192"
+                        title="bbox 994 813                             1075 844;                             x_wconf 100">
+                        Abhay</span>
+                </span>
+                <span class="ocr_line" id="line_16"
+                    title="bbox 99 844                         1075 879;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_193"
+                        title="bbox 99 847                             226 871;                             x_wconf 100">
+                        Karandikar</span>
+                    <span class="ocrx_word" id="word_194"
+                        title="bbox 231 845                             348 876;                             x_wconf 80">
+                        (erstwhile</span>
+                    <span class="ocrx_word" id="word_195"
+                        title="bbox 351 847                             414 873;                             x_wconf 100">
+                        Dean</span>
+                    <span class="ocrx_word" id="word_196"
+                        title="bbox 415 845                             488 876;                             x_wconf 97">
+                        (FA))</span>
+                    <span class="ocrx_word" id="word_197"
+                        title="bbox 487 844                             519 874;                             x_wconf 100">
+                        in</span>
+                    <span class="ocrx_word" id="word_198"
+                        title="bbox 517 844                             590 874;                             x_wconf 99">
+                        2017.</span>
+                    <span class="ocrx_word" id="word_199"
+                        title="bbox 588 844                             619 874;                             x_wconf 100">
+                        A</span>
+                    <span class="ocrx_word" id="word_200"
+                        title="bbox 619 847                             740 871;                             x_wconf 87">
+                        committee</span>
+                    <span class="ocrx_word" id="word_201"
+                        title="bbox 742 844                             802 874;                             x_wconf 100">
+                        with</span>
+                    <span class="ocrx_word" id="word_202"
+                        title="bbox 800 844                             863 874;                             x_wconf 97">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_203"
+                        title="bbox 866 847                             970 878;                             x_wconf 99">
+                        Swaroop</span>
+                    <span class="ocrx_word" id="word_204"
+                        title="bbox 971 844                             1075 879;                             x_wconf 99">
+                        Ganguly</span>
+                </span>
+                <span class="ocr_line" id="line_17"
+                    title="bbox 94 876                         1076 913;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_205"
+                        title="bbox 94 881                             129 908;                             x_wconf 100">
+                        as</span>
+                    <span class="ocrx_word" id="word_206"
+                        title="bbox 126 878                             171 908;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_207"
+                        title="bbox 173 879                             285 903;                             x_wconf 100">
+                        Convener</span>
+                    <span class="ocrx_word" id="word_208"
+                        title="bbox 288 879                             391 910;                             x_wconf 96">
+                        prepared</span>
+                    <span class="ocrx_word" id="word_209"
+                        title="bbox 393 878                             435 907;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_210"
+                        title="bbox 436 878                             488 905;                             x_wconf 100">
+                        first</span>
+                    <span class="ocrx_word" id="word_211"
+                        title="bbox 488 876                             550 907;                             x_wconf 100">
+                        draft</span>
+                    <span class="ocrx_word" id="word_212"
+                        title="bbox 550 878                             584 907;                             x_wconf 100">
+                        of</span>
+                    <span class="ocrx_word" id="word_213"
+                        title="bbox 582 878                             624 907;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_214"
+                        title="bbox 626 878                             742 907;                             x_wconf 100">
+                        handbook</span>
+                    <span class="ocrx_word" id="word_215"
+                        title="bbox 742 876                             800 907;                             x_wconf 100">
+                        with</span>
+                    <span class="ocrx_word" id="word_216"
+                        title="bbox 802 879                             882 905;                             x_wconf 91">
+                        crucial</span>
+                    <span class="ocrx_word" id="word_217"
+                        title="bbox 882 876                             962 913;                             x_wconf 100">
+                        inputs</span>
+                    <span class="ocrx_word" id="word_218"
+                        title="bbox 963 879                             1023 905;                             x_wconf 100">
+                        from</span>
+                    <span class="ocrx_word" id="word_219"
+                        title="bbox 1023 876                             1076 908;                             x_wconf 100">
+                        fac-</span>
+                </span>
+                <span class="ocr_line" id="line_18"
+                    title="bbox 95 910                         1073 944;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_220"
+                        title="bbox 95 910                             147 944;                             x_wconf 100">
+                        ulty</span>
+                    <span class="ocrx_word" id="word_221"
+                        title="bbox 149 913                             262 937;                             x_wconf 96">
+                        members.</span>
+                    <span class="ocrx_word" id="word_222"
+                        title="bbox 265 912                             325 937;                             x_wconf 100">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_223"
+                        title="bbox 328 912                             364 939;                             x_wconf 89">
+                        K.</span>
+                    <span class="ocrx_word" id="word_224"
+                        title="bbox 351 912                             391 939;                             x_wconf 100">
+                        P.</span>
+                    <span class="ocrx_word" id="word_225"
+                        title="bbox 394 913                             517 942;                             x_wconf 99">
+                        Kaliappan,</span>
+                    <span class="ocrx_word" id="word_226"
+                        title="bbox 520 912                             562 939;                             x_wconf 99">
+                        the</span>
+                    <span class="ocrx_word" id="word_227"
+                        title="bbox 564 912                             645 937;                             x_wconf 97">
+                        former</span>
+                    <span class="ocrx_word" id="word_228"
+                        title="bbox 647 912                             711 937;                             x_wconf 100">
+                        Dean</span>
+                    <span class="ocrx_word" id="word_229"
+                        title="bbox 711 910                             774 942;                             x_wconf 100">
+                        (FA)</span>
+                    <span class="ocrx_word" id="word_230"
+                        title="bbox 773 912                             818 939;                             x_wconf 95">
+                        has</span>
+                    <span class="ocrx_word" id="word_231"
+                        title="bbox 818 910                             918 939;                             x_wconf 89">
+                        invested</span>
+                    <span class="ocrx_word" id="word_232"
+                        title="bbox 916 915                             939 939;                             x_wconf 100">
+                        a</span>
+                    <span class="ocrx_word" id="word_233"
+                        title="bbox 941 913                             1073 937;                             x_wconf 99">
+                        tremendous</span>
+                </span>
+                <span class="ocr_line" id="line_19"
+                    title="bbox 95 942                         1080 979;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_234"
+                        title="bbox 95 947                             186 971;                             x_wconf 100">
+                        amount</span>
+                    <span class="ocrx_word" id="word_235"
+                        title="bbox 188 942                             221 973;                             x_wconf 100">
+                        of</span>
+                    <span class="ocrx_word" id="word_236"
+                        title="bbox 220 942                             278 973;                             x_wconf 63">
+                        time</span>
+                    <span class="ocrx_word" id="word_237"
+                        title="bbox 276 945                             310 973;                             x_wconf 100">
+                        to</span>
+                    <span class="ocrx_word" id="word_238"
+                        title="bbox 310 945                             425 970;                             x_wconf 79">
+                        document</span>
+                    <span class="ocrx_word" id="word_239"
+                        title="bbox 428 949                             459 971;                             x_wconf 100">
+                        as</span>
+                    <span class="ocrx_word" id="word_240"
+                        title="bbox 462 950                             529 976;                             x_wconf 100">
+                        many</span>
+                    <span class="ocrx_word" id="word_241"
+                        title="bbox 532 945                             609 971;                             x_wconf 100">
+                        details</span>
+                    <span class="ocrx_word" id="word_242"
+                        title="bbox 613 950                             643 971;                             x_wconf 100">
+                        as</span>
+                    <span class="ocrx_word" id="word_243"
+                        title="bbox 645 945                             742 976;                             x_wconf 100">
+                        possible</span>
+                    <span class="ocrx_word" id="word_244"
+                        title="bbox 744 942                             776 975;                             x_wconf 100">
+                        in</span>
+                    <span class="ocrx_word" id="word_245"
+                        title="bbox 774 944                             819 975;                             x_wconf 99">
+                        the</span>
+                    <span class="ocrx_word" id="word_246"
+                        title="bbox 821 945                             934 970;                             x_wconf 100">
+                        handbook</span>
+                    <span class="ocrx_word" id="word_247"
+                        title="bbox 937 944                             984 971;                             x_wconf 100">
+                        and</span>
+                    <span class="ocrx_word" id="word_248"
+                        title="bbox 984 942                             1054 979;                             x_wconf 100">
+                        bring</span>
+                    <span class="ocrx_word" id="word_249"
+                        title="bbox 1051 942                             1080 975;                             x_wconf 100">
+                        it</span>
+                </span>
+                <span class="ocr_line" id="line_20"
+                    title="bbox 94 975                         1075 1009;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_250"
+                        title="bbox 94 978                             133 1007;                             x_wconf 95">
+                        to</span>
+                    <span class="ocrx_word" id="word_251"
+                        title="bbox 124 975                             176 1007;                             x_wconf 97">
+                        this</span>
+                    <span class="ocrx_word" id="word_252"
+                        title="bbox 175 979                             260 1004;                             x_wconf 100">
+                        current</span>
+                    <span class="ocrx_word" id="word_253"
+                        title="bbox 262 978                             328 1004;                             x_wconf 92">
+                        form.</span>
+                    <span class="ocrx_word" id="word_254"
+                        title="bbox 331 978                             419 1009;                             x_wconf 96">
+                        Special</span>
+                    <span class="ocrx_word" id="word_255"
+                        title="bbox 420 978                             499 1004;                             x_wconf 100">
+                        thanks</span>
+                    <span class="ocrx_word" id="word_256"
+                        title="bbox 499 978                             532 1007;                             x_wconf 100">
+                        to</span>
+                    <span class="ocrx_word" id="word_257"
+                        title="bbox 532 978                             592 1004;                             x_wconf 99">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_258"
+                        title="bbox 596 978                             677 1004;                             x_wconf 100">
+                        Kumar</span>
+                    <span class="ocrx_word" id="word_259"
+                        title="bbox 680 978                             779 1009;                             x_wconf 100">
+                        Appaiah</span>
+                    <span class="ocrx_word" id="word_260"
+                        title="bbox 784 979                             928 1009;                             x_wconf 74">
+                        (Department</span>
+                    <span class="ocrx_word" id="word_261"
+                        title="bbox 928 975                             963 1005;                             x_wconf 100">
+                        of</span>
+                    <span class="ocrx_word" id="word_262"
+                        title="bbox 962 976                             1075 1005;                             x_wconf 100">
+                        Electrical</span>
+                </span>
+                <span class="ocr_line" id="line_21"
+                    title="bbox 99 1007                         1076 1044;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_263"
+                        title="bbox 99 1012                             247 1041;                             x_wconf 100">
+                        Engineering)</span>
+                    <span class="ocrx_word" id="word_264"
+                        title="bbox 246 1007                             291 1041;                             x_wconf 100">
+                        for</span>
+                    <span class="ocrx_word" id="word_265"
+                        title="bbox 285 1009                             327 1038;                             x_wconf 100">
+                        his</span>
+                    <span class="ocrx_word" id="word_266"
+                        title="bbox 323 1009                             383 1039;                             x_wconf 100">
+                        hard</span>
+                    <span class="ocrx_word" id="word_267"
+                        title="bbox 380 1010                             451 1041;                             x_wconf 85">
+                        work,</span>
+                    <span class="ocrx_word" id="word_268"
+                        title="bbox 451 1010                             580 1039;                             x_wconf 84">
+                        dedication,</span>
+                    <span class="ocrx_word" id="word_269"
+                        title="bbox 579 1010                             627 1038;                             x_wconf 100">
+                        and</span>
+                    <span class="ocrx_word" id="word_270"
+                        title="bbox 626 1010                             744 1039;                             x_wconf 99">
+                        consistent</span>
+                    <span class="ocrx_word" id="word_271"
+                        title="bbox 742 1013                             834 1044;                             x_wconf 100">
+                        support</span>
+                    <span class="ocrx_word" id="word_272"
+                        title="bbox 832 1010                             881 1038;                             x_wconf 97">
+                        that</span>
+                    <span class="ocrx_word" id="word_273"
+                        title="bbox 881 1010                             960 1042;                             x_wconf 100">
+                        helped</span>
+                    <span class="ocrx_word" id="word_274"
+                        title="bbox 958 1012                             991 1041;                             x_wconf 100">
+                        to</span>
+                    <span class="ocrx_word" id="word_275"
+                        title="bbox 988 1009                             1076 1044;                             x_wconf 74">
+                        publish</span>
+                </span>
+                <span class="ocr_line" id="line_22"
+                    title="bbox 95 1042                         1076 1076;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_276"
+                        title="bbox 95 1044                             144 1072;                             x_wconf 100">
+                        this</span>
+                    <span class="ocrx_word" id="word_277"
+                        title="bbox 144 1046                             263 1070;                             x_wconf 95">
+                        document.</span>
+                    <span class="ocrx_word" id="word_278"
+                        title="bbox 267 1044                             318 1072;                             x_wconf 100">
+                        The</span>
+                    <span class="ocrx_word" id="word_279"
+                        title="bbox 315 1042                             404 1072;                             x_wconf 100">
+                        revised</span>
+                    <span class="ocrx_word" id="word_280"
+                        title="bbox 402 1042                             464 1073;                             x_wconf 100">
+                        draft</span>
+                    <span class="ocrx_word" id="word_281"
+                        title="bbox 461 1047                             514 1073;                             x_wconf 100">
+                        was</span>
+                    <span class="ocrx_word" id="word_282"
+                        title="bbox 512 1046                             619 1070;                             x_wconf 99">
+                        reviewed</span>
+                    <span class="ocrx_word" id="word_283"
+                        title="bbox 619 1044                             655 1076;                             x_wconf 100">
+                        by</span>
+                    <span class="ocrx_word" id="word_284"
+                        title="bbox 653 1042                             714 1073;                             x_wconf 100">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_285"
+                        title="bbox 716 1046                             807 1076;                             x_wconf 100">
+                        Devang</span>
+                    <span class="ocrx_word" id="word_286"
+                        title="bbox 810 1046                             908 1070;                             x_wconf 100">
+                        Khakhar</span>
+                    <span class="ocrx_word" id="word_287"
+                        title="bbox 910 1044                             1000 1075;                             x_wconf 100">
+                        (former</span>
+                    <span class="ocrx_word" id="word_288"
+                        title="bbox 999 1042                             1076 1073;                             x_wconf 100">
+                        Direc-</span>
+                </span>
+                <span class="ocr_line" id="line_23"
+                    title="bbox 95 1075                         1075 1110;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_289"
+                        title="bbox 95 1080                             142 1107;                             x_wconf 100">
+                        tor,</span>
+                    <span class="ocrx_word" id="word_290"
+                        title="bbox 141 1075                             189 1107;                             x_wconf 55">
+                        IIT</span>
+                    <span class="ocrx_word" id="word_291"
+                        title="bbox 189 1078                             302 1109;                             x_wconf 100">
+                        Bombay),</span>
+                    <span class="ocrx_word" id="word_292"
+                        title="bbox 306 1078                             367 1104;                             x_wconf 69">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_293"
+                        title="bbox 367 1076                             399 1107;                             x_wconf 98">
+                        S.</span>
+                    <span class="ocrx_word" id="word_294"
+                        title="bbox 399 1078                             529 1107;                             x_wconf 83">
+                        Sudarshan,</span>
+                    <span class="ocrx_word" id="word_295"
+                        title="bbox 529 1075                             580 1107;                             x_wconf 100">
+                        DD</span>
+                    <span class="ocrx_word" id="word_296"
+                        title="bbox 577 1075                             663 1110;                             x_wconf 100">
+                        (AIA),</span>
+                    <span class="ocrx_word" id="word_297"
+                        title="bbox 663 1078                             722 1104;                             x_wconf 100">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_298"
+                        title="bbox 726 1076                             826 1105;                             x_wconf 100">
+                        Avinash</span>
+                    <span class="ocrx_word" id="word_299"
+                        title="bbox 829 1078                             936 1109;                             x_wconf 100">
+                        Mahajan,</span>
+                    <span class="ocrx_word" id="word_300"
+                        title="bbox 941 1078                             1004 1104;                             x_wconf 100">
+                        Dean</span>
+                    <span class="ocrx_word" id="word_301"
+                        title="bbox 1005 1076                             1075 1109;                             x_wconf 59">
+                        (AP),</span>
+                </span>
+                <span class="ocr_line" id="line_24"
+                    title="bbox 95 1109                         1076 1144;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_302"
+                        title="bbox 95 1109                             158 1139;                             x_wconf 97">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_303"
+                        title="bbox 157 1109                             223 1139;                             x_wconf 100">
+                        A.M.</span>
+                    <span class="ocrx_word" id="word_304"
+                        title="bbox 221 1109                             323 1144;                             x_wconf 100">
+                        Pradeep,</span>
+                    <span class="ocrx_word" id="word_305"
+                        title="bbox 323 1109                             436 1138;                             x_wconf 85">
+                        Associate</span>
+                    <span class="ocrx_word" id="word_306"
+                        title="bbox 435 1109                             503 1139;                             x_wconf 100">
+                        Dean</span>
+                    <span class="ocrx_word" id="word_307"
+                        title="bbox 501 1110                             592 1141;                             x_wconf 96">
+                        (R&amp;D),</span>
+                    <span class="ocrx_word" id="word_308"
+                        title="bbox 592 1109                             653 1139;                             x_wconf 100">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_309"
+                        title="bbox 655 1112                             747 1136;                             x_wconf 100">
+                        Santanu</span>
+                    <span class="ocrx_word" id="word_310"
+                        title="bbox 748 1109                             855 1144;                             x_wconf 70">
+                        Banerjee</span>
+                    <span class="ocrx_word" id="word_311"
+                        title="bbox 853 1109                             929 1141;                             x_wconf 100">
+                        (Earth</span>
+                    <span class="ocrx_word" id="word_312"
+                        title="bbox 929 1112                             1026 1136;                             x_wconf 100">
+                        sciences</span>
+                    <span class="ocrx_word" id="word_313"
+                        title="bbox 1028 1110                             1076 1138;                             x_wconf 100">
+                        De-</span>
+                </span>
+                <span class="ocr_line" id="line_25"
+                    title="bbox 97 1143                         1075 1178;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_314"
+                        title="bbox 97 1146                             209 1175;                             x_wconf 100">
+                        partment,</span>
+                    <span class="ocrx_word" id="word_315"
+                        title="bbox 210 1144                             275 1170;                             x_wconf 100">
+                        other</span>
+                    <span class="ocrx_word" id="word_316"
+                        title="bbox 276 1144                             423 1169;                             x_wconf 54">
+                        functionaries</span>
+                    <span class="ocrx_word" id="word_317"
+                        title="bbox 427 1143                             474 1170;                             x_wconf 99">
+                        and</span>
+                    <span class="ocrx_word" id="word_318"
+                        title="bbox 475 1144                             550 1170;                             x_wconf 100">
+                        Heads</span>
+                    <span class="ocrx_word" id="word_319"
+                        title="bbox 550 1143                             584 1172;                             x_wconf 100">
+                        of</span>
+                    <span class="ocrx_word" id="word_320"
+                        title="bbox 582 1144                             692 1169;                             x_wconf 97">
+                        academic</span>
+                    <span class="ocrx_word" id="word_321"
+                        title="bbox 695 1144                             755 1170;                             x_wconf 100">
+                        units</span>
+                    <span class="ocrx_word" id="word_322"
+                        title="bbox 755 1144                             803 1170;                             x_wconf 100">
+                        and</span>
+                    <span class="ocrx_word" id="word_323"
+                        title="bbox 803 1144                             861 1170;                             x_wconf 100">
+                        their</span>
+                    <span class="ocrx_word" id="word_324"
+                        title="bbox 860 1148                             920 1178;                             x_wconf 100">
+                        very</span>
+                    <span class="ocrx_word" id="word_325"
+                        title="bbox 918 1143                             1020 1172;                             x_wconf 100">
+                        valuable</span>
+                    <span class="ocrx_word" id="word_326"
+                        title="bbox 1020 1149                             1075 1178;                             x_wconf 95">
+                        sug-</span>
+                </span>
+                <span class="ocr_line" id="line_26"
+                    title="bbox 95 1175                         1075 1211;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_327"
+                        title="bbox 95 1175                             196 1211;                             x_wconf 100">
+                        gestions</span>
+                    <span class="ocrx_word" id="word_328"
+                        title="bbox 194 1175                             255 1206;                             x_wconf 99">
+                        have</span>
+                    <span class="ocrx_word" id="word_329"
+                        title="bbox 255 1177                             314 1202;                             x_wconf 100">
+                        been</span>
+                    <span class="ocrx_word" id="word_330"
+                        title="bbox 315 1177                             466 1207;                             x_wconf 96">
+                        incorporated.</span>
+                    <span class="ocrx_word" id="word_331"
+                        title="bbox 467 1177                             519 1204;                             x_wconf 100">
+                        The</span>
+                    <span class="ocrx_word" id="word_332"
+                        title="bbox 519 1177                             596 1209;                             x_wconf 84">
+                        timely</span>
+                    <span class="ocrx_word" id="word_333"
+                        title="bbox 596 1175                             653 1209;                             x_wconf 100">
+                        help</span>
+                    <span class="ocrx_word" id="word_334"
+                        title="bbox 651 1177                             700 1204;                             x_wconf 100">
+                        and</span>
+                    <span class="ocrx_word" id="word_335"
+                        title="bbox 700 1177                             779 1202;                             x_wconf 100">
+                        efforts</span>
+                    <span class="ocrx_word" id="word_336"
+                        title="bbox 777 1175                             815 1204;                             x_wconf 67">
+                        of</span>
+                    <span class="ocrx_word" id="word_337"
+                        title="bbox 808 1177                             852 1204;                             x_wconf 100">
+                        Dr.</span>
+                    <span class="ocrx_word" id="word_338"
+                        title="bbox 853 1175                             1075 1209;                             x_wconf 81">
+                        K.V.Reghuthaman,</span>
+                </span>
+                <span class="ocr_line" id="line_27"
+                    title="bbox 94 1207                         1075 1244;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_339"
+                        title="bbox 94 1207                             157 1238;                             x_wconf 100">
+                        Joint</span>
+                    <span class="ocrx_word" id="word_340"
+                        title="bbox 158 1211                             267 1241;                             x_wconf 74">
+                        Registrar,</span>
+                    <span class="ocrx_word" id="word_341"
+                        title="bbox 270 1209                             317 1236;                             x_wconf 100">
+                        Mr.</span>
+                    <span class="ocrx_word" id="word_342"
+                        title="bbox 318 1207                             398 1244;                             x_wconf 100">
+                        Sanjay</span>
+                    <span class="ocrx_word" id="word_343"
+                        title="bbox 401 1209                             467 1240;                             x_wconf 100">
+                        Shah,</span>
+                    <span class="ocrx_word" id="word_344"
+                        title="bbox 472 1211                             574 1235;                             x_wconf 100">
+                        Assistant</span>
+                    <span class="ocrx_word" id="word_345"
+                        title="bbox 579 1211                             685 1241;                             x_wconf 100">
+                        Registrar,</span>
+                    <span class="ocrx_word" id="word_346"
+                        title="bbox 687 1207                             737 1240;                             x_wconf 100">
+                        Ms.</span>
+                    <span class="ocrx_word" id="word_347"
+                        title="bbox 739 1207                             829 1243;                             x_wconf 100">
+                        Falguni</span>
+                    <span class="ocrx_word" id="word_348"
+                        title="bbox 831 1211                             929 1241;                             x_wconf 100">
+                        Banerjee</span>
+                    <span class="ocrx_word" id="word_349"
+                        title="bbox 934 1211                             996 1236;                             x_wconf 96">
+                        Naha</span>
+                    <span class="ocrx_word" id="word_350"
+                        title="bbox 997 1209                             1075 1241;                             x_wconf 100">
+                        (PRO)</span>
+                </span>
+                <span class="ocr_line" id="line_28"
+                    title="bbox 94 1240                         1076 1274;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_351"
+                        title="bbox 94 1240                             146 1272;                             x_wconf 100">
+                        and</span>
+                    <span class="ocrx_word" id="word_352"
+                        title="bbox 142 1241                             184 1270;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_353"
+                        title="bbox 183 1241                             244 1272;                             x_wconf 100">
+                        staff</span>
+                    <span class="ocrx_word" id="word_354"
+                        title="bbox 239 1243                             299 1269;                             x_wconf 98">
+                        from</span>
+                    <span class="ocrx_word" id="word_355"
+                        title="bbox 299 1243                             357 1269;                             x_wconf 100">
+                        their</span>
+                    <span class="ocrx_word" id="word_356"
+                        title="bbox 357 1243                             438 1269;                             x_wconf 100">
+                        offices</span>
+                    <span class="ocrx_word" id="word_357"
+                        title="bbox 436 1240                             487 1272;                             x_wconf 100">
+                        and</span>
+                    <span class="ocrx_word" id="word_358"
+                        title="bbox 483 1240                             535 1272;                             x_wconf 99">
+                        Ms.</span>
+                    <span class="ocrx_word" id="word_359"
+                        title="bbox 533 1241                             624 1270;                             x_wconf 100">
+                        Archita</span>
+                    <span class="ocrx_word" id="word_360"
+                        title="bbox 624 1241                             689 1274;                             x_wconf 100">
+                        Patil,</span>
+                    <span class="ocrx_word" id="word_361"
+                        title="bbox 689 1243                             752 1269;                             x_wconf 100">
+                        Dean</span>
+                    <span class="ocrx_word" id="word_362"
+                        title="bbox 752 1241                             815 1274;                             x_wconf 87">
+                        (FA)</span>
+                    <span class="ocrx_word" id="word_363"
+                        title="bbox 813 1243                             884 1269;                             x_wconf 100">
+                        office</span>
+                    <span class="ocrx_word" id="word_364"
+                        title="bbox 882 1240                             939 1272;                             x_wconf 100">
+                        who</span>
+                    <span class="ocrx_word" id="word_365"
+                        title="bbox 937 1241                             1036 1270;                             x_wconf 100">
+                        checked</span>
+                    <span class="ocrx_word" id="word_366"
+                        title="bbox 1034 1241                             1076 1270;                             x_wconf 100">
+                        the</span>
+                </span>
+                <span class="ocr_line" id="line_29"
+                    title="bbox 97 1275                         1076 1311;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_367"
+                        title="bbox 97 1277                             176 1303;                             x_wconf 100">
+                        details</span>
+                    <span class="ocrx_word" id="word_368"
+                        title="bbox 178 1275                             220 1304;                             x_wconf 100">
+                        for</span>
+                    <span class="ocrx_word" id="word_369"
+                        title="bbox 218 1280                             325 1309;                             x_wconf 100">
+                        accuracy</span>
+                    <span class="ocrx_word" id="word_370"
+                        title="bbox 327 1275                             420 1304;                             x_wconf 95">
+                        deserve</span>
+                    <span class="ocrx_word" id="word_371"
+                        title="bbox 420 1275                             508 1311;                             x_wconf 99">
+                        special</span>
+                    <span class="ocrx_word" id="word_372"
+                        title="bbox 509 1277                             656 1308;                             x_wconf 51">
+                        appreciation.</span>
+                    <span class="ocrx_word" id="word_373"
+                        title="bbox 680 1277                             771 1308;                             x_wconf 78">
+                        Finally,</span>
+                    <span class="ocrx_word" id="word_374"
+                        title="bbox 773 1275                             818 1306;                             x_wconf 100">
+                        the</span>
+                    <span class="ocrx_word" id="word_375"
+                        title="bbox 818 1277                             923 1306;                             x_wconf 100">
+                        Director,</span>
+                    <span class="ocrx_word" id="word_376"
+                        title="bbox 926 1277                             986 1303;                             x_wconf 99">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_377"
+                        title="bbox 989 1275                             1076 1304;                             x_wconf 58">
+                        Subha-</span>
+                </span>
+                <span class="ocr_line" id="line_30"
+                    title="bbox 95 1308                         1076 1343;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_378"
+                        title="bbox 95 1308                             136 1340;                             x_wconf 100">
+                        sis</span>
+                    <span class="ocrx_word" id="word_379"
+                        title="bbox 134 1309                             263 1338;                             x_wconf 100">
+                        Chaudhuri,</span>
+                    <span class="ocrx_word" id="word_380"
+                        title="bbox 265 1309                             310 1337;                             x_wconf 100">
+                        has</span>
+                    <span class="ocrx_word" id="word_381"
+                        title="bbox 312 1311                             396 1341;                             x_wconf 100">
+                        always</span>
+                    <span class="ocrx_word" id="word_382"
+                        title="bbox 396 1308                             485 1337;                             x_wconf 100">
+                        offered</span>
+                    <span class="ocrx_word" id="word_383"
+                        title="bbox 485 1309                             587 1338;                             x_wconf 100">
+                        constant</span>
+                    <span class="ocrx_word" id="word_384"
+                        title="bbox 585 1312                             677 1343;                             x_wconf 100">
+                        support</span>
+                    <span class="ocrx_word" id="word_385"
+                        title="bbox 677 1309                             726 1337;                             x_wconf 100">
+                        and</span>
+                    <span class="ocrx_word" id="word_386"
+                        title="bbox 729 1316                             900 1340;                             x_wconf 54">
+                        encouragement</span>
+                    <span class="ocrx_word" id="word_387"
+                        title="bbox 905 1311                             1031 1341;                             x_wconf 100">
+                        throughout</span>
+                    <span class="ocrx_word" id="word_388"
+                        title="bbox 1033 1309                             1076 1337;                             x_wconf 100">
+                        the</span>
+                </span>
+                <span class="ocr_line" id="line_31"
+                    title="bbox 95 1388                         1072 1424;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_389"
+                        title="bbox 95 1390                             173 1421;                             x_wconf 100">
+                        Itrust</span>
+                    <span class="ocrx_word" id="word_390"
+                        title="bbox 175 1392                             225 1419;                             x_wconf 100">
+                        that</span>
+                    <span class="ocrx_word" id="word_391"
+                        title="bbox 225 1388                             276 1421;                             x_wconf 100">
+                        this</span>
+                    <span class="ocrx_word" id="word_392"
+                        title="bbox 276 1390                             365 1419;                             x_wconf 96">
+                        version</span>
+                    <span class="ocrx_word" id="word_393"
+                        title="bbox 367 1390                             419 1417;                             x_wconf 98">
+                        will</span>
+                    <span class="ocrx_word" id="word_394"
+                        title="bbox 422 1398                             487 1417;                             x_wconf 45">
+                        serve.</span>
+                    <span class="ocrx_word" id="word_395"
+                        title="bbox 488 1396                             520 1419;                             x_wconf 100">
+                        as</span>
+                    <span class="ocrx_word" id="word_396"
+                        title="bbox 519 1395                             543 1421;                             x_wconf 100">
+                        a</span>
+                    <span class="ocrx_word" id="word_397"
+                        title="bbox 545 1392                             619 1424;                             x_wconf 100">
+                        handy</span>
+                    <span class="ocrx_word" id="word_398"
+                        title="bbox 622 1393                             731 1417;                             x_wconf 100">
+                        reference</span>
+                    <span class="ocrx_word" id="word_399"
+                        title="bbox 732 1395                             771 1421;                             x_wconf 99">
+                        on</span>
+                    <span class="ocrx_word" id="word_400"
+                        title="bbox 773 1393                             897 1422;                             x_wconf 100">
+                        day-to-day</span>
+                    <span class="ocrx_word" id="word_401"
+                        title="bbox 902 1392                             992 1421;                             x_wconf 99">
+                        matters</span>
+                    <span class="ocrx_word" id="word_402"
+                        title="bbox 992 1390                             1034 1419;                             x_wconf 100">
+                        for</span>
+                    <span class="ocrx_word" id="word_403"
+                        title="bbox 1034 1390                             1072 1419;                             x_wconf 99">
+                        all</span>
+                </span>
+            </p>
+        </div>
+        <div class="ocr_carea" id="block_3" title="bbox 97 432                     246 459">
+            <p class="ocr_par" id="par_3" title="bbox 97 432                     246 459">
+                <span class="ocr_line" id="line_32"
+                    title="bbox 97 432                         246 459;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_404"
+                        title="bbox 97 432                             147 459;                             x_wconf 100">
+                        into</span>
+                    <span class="ocrx_word" id="word_405"
+                        title="bbox 147 435                             246 459;                             x_wconf 99">
+                        account.</span>
+                </span>
+            </p>
+        </div>
+        <div class="ocr_carea" id="block_4" title="bbox 95 611                     627 646">
+            <p class="ocr_par" id="par_4" title="bbox 95 611                     627 646">
+                <span class="ocr_line" id="line_33"
+                    title="bbox 95 611                         627 646;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_406"
+                        title="bbox 95 613                             141 643;                             x_wconf 99">
+                        the</span>
+                    <span class="ocrx_word" id="word_407"
+                        title="bbox 139 614                             210 640;                             x_wconf 100">
+                        issues</span>
+                    <span class="ocrx_word" id="word_408"
+                        title="bbox 210 614                             259 640;                             x_wconf 100">
+                        that</span>
+                    <span class="ocrx_word" id="word_409"
+                        title="bbox 259 617                             354 642;                             x_wconf 99">
+                        concern</span>
+                    <span class="ocrx_word" id="word_410"
+                        title="bbox 354 619                             430 645;                             x_wconf 100">
+                        young</span>
+                    <span class="ocrx_word" id="word_411"
+                        title="bbox 430 611                             516 646;                             x_wconf 92">
+                        faculty</span>
+                    <span class="ocrx_word" id="word_412"
+                        title="bbox 516 616                             627 640;                             x_wconf 100">
+                        members.</span>
+                </span>
+            </p>
+        </div>
+        <div class="ocr_carea" id="block_5" title="bbox 95 1341                     406 1558">
+            <p class="ocr_par" id="par_5" title="bbox 95 1341                     406 1558">
+                <span class="ocr_line" id="line_34"
+                    title="bbox 95 1341                         406 1375;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_413"
+                        title="bbox 95 1341                             213 1371;                             x_wconf 100">
+                        handbook</span>
+                    <span class="ocrx_word" id="word_414"
+                        title="bbox 212 1341                             309 1371;                             x_wconf 100">
+                        revision</span>
+                    <span class="ocrx_word" id="word_415"
+                        title="bbox 309 1346                             406 1375;                             x_wconf 100">
+                        process.</span>
+                </span>
+                <span class="ocr_line" id="line_35"
+                    title="bbox 99 1425                         294 1458;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_416"
+                        title="bbox 99 1425                             179 1458;                             x_wconf 95">
+                        faculty</span>
+                    <span class="ocrx_word" id="word_417"
+                        title="bbox 183 1427                             294 1451;                             x_wconf 97">
+                        members.</span>
+                </span>
+                <span class="ocr_line" id="line_36"
+                    title="bbox 97 1472                         364 1508;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_418"
+                        title="bbox 97 1472                             160 1503;                             x_wconf 95">
+                        Prof.</span>
+                    <span class="ocrx_word" id="word_419"
+                        title="bbox 179 1472                             255 1503;                             x_wconf 100">
+                        Neela</span>
+                    <span class="ocrx_word" id="word_420"
+                        title="bbox 273 1472                             364 1508;                             x_wconf 100">
+                        Nataraj</span>
+                </span>
+                <span class="ocr_line" id="line_37"
+                    title="bbox 97 1522                         360 1558;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_421"
+                        title="bbox 97 1524                             176 1555;                             x_wconf 100">
+                        (Dean,</span>
+                    <span class="ocrx_word" id="word_422"
+                        title="bbox 176 1522                             268 1558;                             x_wconf 98">
+                        Faculty</span>
+                    <span class="ocrx_word" id="word_423"
+                        title="bbox 267 1524                             360 1555;                             x_wconf 99">
+                        Affairs)</span>
+                </span>
+            </p>
+        </div>
+        <div class="ocr_carea" id="block_6" title="bbox 574 1581                     595 1607">
+            <p class="ocr_par" id="par_6" title="bbox 574 1581                     595 1607">
+                <span class="ocr_line" id="line_38"
+                    title="bbox 574 1581                         595 1607;                         baseline 0 0; x_size 0; x_descenders 0; x_ascenders 0">
+                    <span class="ocrx_word" id="word_424"
+                        title="bbox 574 1581                             595 1607;                             x_wconf 98">
+                        5</span>
+                </span>
+            </p>
+        </div>
+    </body>
+</html>
